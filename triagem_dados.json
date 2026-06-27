@@ -1,0 +1,1760 @@
+{
+    "usuarios": {
+        "6878967298": {
+            "etapa": "nome"
+        },
+        "8672397104": {
+            "etapa": "nome"
+        },
+        "2127632643": {
+            "etapa": "nome"
+        },
+        "7025937739": {
+            "etapa": "q26",
+            "nome": "Nome completo ou só o primeiro?\nLaura",
+            "idade": "19",
+            "q1": "Sim",
+            "q2": "Sim",
+            "q3": "Sim",
+            "q4": "Não",
+            "q5": "Sim",
+            "q6": "Não",
+            "q7": "Não",
+            "q8": "Sim",
+            "q9": "Não",
+            "q10": "Sim",
+            "q11": "Sim",
+            "q12": "Sim",
+            "q13": "Não",
+            "q14": "Não",
+            "q15": "Não",
+            "q16": "Sim",
+            "q17": "Não",
+            "q18": "Sim",
+            "q19": "Não",
+            "q20": "Sim",
+            "q21": "Sim",
+            "q22": "Sim",
+            "q23": "Sim",
+            "q24": "Sim",
+            "q25": "Sim",
+            "q26": "Sim"
+        },
+        "1372842787": {
+            "etapa": "q26",
+            "nome": "Oi, demora muito a triagem?",
+            "idade": "22",
+            "q1": "Sim",
+            "q2": "Sim",
+            "q3": "Sim",
+            "q4": "Sim",
+            "q5": "Sim",
+            "q6": "Não",
+            "q7": "Não",
+            "q8": "Sim",
+            "q9": "Sim",
+            "q10": "Sim",
+            "q11": "Sim",
+            "q12": "Sim",
+            "q13": "Sim",
+            "q14": "Sim",
+            "q15": "Sim",
+            "q16": "Sim",
+            "q17": "Sim",
+            "q18": "Sim",
+            "q19": "Sim",
+            "q20": "Sim",
+            "q21": "Não",
+            "q22": "Sim",
+            "q23": "Sim",
+            "q24": "Sim",
+            "q25": "Sim",
+            "q26": "Sim"
+        },
+        "8034386160": {
+            "etapa": "q26",
+            "nome": "Keila",
+            "idade": "26",
+            "q1": "Sim",
+            "q2": "Sim",
+            "q3": "Sim",
+            "q4": "Sim",
+            "q5": "Sim",
+            "q6": "Sim",
+            "q7": "Sim",
+            "q8": "Sim",
+            "q9": "Sim",
+            "q10": "Sim",
+            "q11": "Sim",
+            "q12": "Sim",
+            "q13": "Sim",
+            "q14": "Sim",
+            "q15": "Sim",
+            "q16": "Sim",
+            "q17": "Sim",
+            "q18": "Sim",
+            "q19": "Sim",
+            "q20": "Sim",
+            "q21": "Sim",
+            "q22": "Sim",
+            "q23": "Sim",
+            "q24": "Sim",
+            "q25": "Sim",
+            "q26": "Sim"
+        },
+        "7519903775": {
+            "etapa": "q26",
+            "nome": "Raely",
+            "idade": "22",
+            "q1": "Sim",
+            "q2": "Sim",
+            "q3": "Sim",
+            "q4": "Sim",
+            "q5": "Sim",
+            "q6": "Sim",
+            "q7": "Sim",
+            "q8": "Sim",
+            "q9": "Sim",
+            "q10": "Sim",
+            "q11": "Sim",
+            "q12": "Sim",
+            "q13": "Sim",
+            "q14": "Sim",
+            "q15": "Sim",
+            "q16": "Sim",
+            "q17": "Sim",
+            "q18": "Sim",
+            "q19": "Sim",
+            "q20": "Sim",
+            "q21": "Sim",
+            "q22": "Sim",
+            "q23": "Sim",
+            "q24": "Sim",
+            "q25": "Sim",
+            "q26": "Sim"
+        },
+        "5734899128": {
+            "etapa": "q26",
+            "nome": "Maria Vitória",
+            "idade": "21",
+            "q1": "Sim",
+            "q2": "Sim",
+            "q3": "Sim",
+            "q4": "Sim",
+            "q5": "Sim",
+            "q6": "Sim",
+            "q7": "Sim",
+            "q8": "Sim",
+            "q9": "Sim",
+            "q10": "Sim",
+            "q11": "Sim",
+            "q12": "Sim",
+            "q13": "Sim",
+            "q14": "Sim",
+            "q15": "Sim",
+            "q16": "Sim",
+            "q17": "Sim",
+            "q18": "Sim",
+            "q19": "Sim",
+            "q20": "Sim",
+            "q21": "Sim",
+            "q22": "Sim",
+            "q23": "Sim",
+            "q24": "Sim",
+            "q25": "Sim",
+            "q26": "Sim"
+        },
+        "8036270910": {
+            "etapa": "q26",
+            "nome": "Vitória",
+            "idade": "20",
+            "q1": "Sim",
+            "q2": "Não",
+            "q3": "Sim",
+            "q4": "Sim",
+            "q5": "Sim",
+            "q6": "Sim",
+            "q7": "Sim",
+            "q8": "Sim",
+            "q9": "Sim",
+            "q10": "Sim",
+            "q11": "Sim",
+            "q12": "Sim",
+            "q13": "Sim",
+            "q14": "Sim",
+            "q15": "Não",
+            "q16": "Sim",
+            "q17": "Sim",
+            "q18": "Sim",
+            "q19": "Não",
+            "q20": "Sim",
+            "q21": "Não",
+            "q22": "Sim",
+            "q23": "Não",
+            "q24": "Sim",
+            "q25": "Sim",
+            "q26": "Sim"
+        },
+        "8312949134": {
+            "etapa": "q26",
+            "nome": "Quero entrar no grupo",
+            "idade": "21",
+            "q1": "Sim",
+            "q2": "Sim",
+            "q3": "Sim",
+            "q4": "Sim",
+            "q5": "Sim",
+            "q6": "Sim",
+            "q7": "Sim",
+            "q8": "Sim",
+            "q9": "Sim",
+            "q10": "Sim",
+            "q11": "Sim",
+            "q12": "Sim",
+            "q13": "Não",
+            "q14": "Não",
+            "q15": "Não",
+            "q16": "Sim",
+            "q17": "Sim",
+            "q18": "Sim",
+            "q19": "Sim",
+            "q20": "Sim",
+            "q21": "Sim",
+            "q22": "Sim",
+            "q23": "Não",
+            "q24": "Sim",
+            "q25": "Sim",
+            "q26": "Sim"
+        },
+        "1794355662": {
+            "etapa": "q26",
+            "nome": "Vitória",
+            "idade": "19",
+            "q1": "Sim",
+            "q2": "Sim",
+            "q3": "Sim",
+            "q4": "Sim",
+            "q5": "Sim",
+            "q6": "Sim",
+            "q7": "Sim",
+            "q8": "Sim",
+            "q9": "Sim",
+            "q10": "Não",
+            "q11": "Sim",
+            "q12": "Sim",
+            "q13": "Sim",
+            "q14": "Não",
+            "q15": "Sim",
+            "q16": "Sim",
+            "q17": "Sim",
+            "q18": "Sim",
+            "q19": "Sim",
+            "q20": "Sim",
+            "q21": "Sim",
+            "q22": "Sim",
+            "q23": "Sim",
+            "q24": "Sim",
+            "q25": "Sim",
+            "q26": "Sim"
+        },
+        "8484325386": {
+            "etapa": "q26",
+            "nome": "Yara santos",
+            "idade": "42",
+            "q1": "Sim",
+            "q2": "Sim",
+            "q3": "Sim",
+            "q4": "Sim",
+            "q5": "Sim",
+            "q6": "Sim",
+            "q7": "Sim",
+            "q8": "Sim",
+            "q9": "Sim",
+            "q10": "Sim",
+            "q11": "Sim",
+            "q12": "Sim",
+            "q13": "Sim",
+            "q14": "Sim",
+            "q15": "Sim",
+            "q16": "Sim",
+            "q17": "Sim",
+            "q18": "Sim",
+            "q19": "Sim",
+            "q20": "Sim",
+            "q21": "Sim",
+            "q22": "Sim",
+            "q23": "Sim",
+            "q24": "Sim",
+            "q25": "Sim",
+            "q26": "Sim"
+        },
+        "1574255056": {
+            "etapa": "q26",
+            "nome": "Nevermind",
+            "idade": "38 anos",
+            "q1": "Sim",
+            "q2": "Sim",
+            "q3": "Sim",
+            "q4": "Sim",
+            "q5": "Sim",
+            "q6": "Sim",
+            "q7": "Sim",
+            "q8": "Sim",
+            "q9": "Sim",
+            "q10": "Sim",
+            "q11": "Sim",
+            "q12": "Sim",
+            "q13": "Sim",
+            "q14": "Não",
+            "q15": "Sim",
+            "q16": "Sim",
+            "q17": "Sim",
+            "q18": "Sim",
+            "q19": "Sim",
+            "q20": "Sim",
+            "q21": "Sim",
+            "q22": "Sim",
+            "q23": "Sim",
+            "q24": "Sim",
+            "q25": "Sim",
+            "q26": "Sim"
+        },
+        "8323756886": {
+            "etapa": "q26",
+            "nome": "Maria Clara",
+            "idade": "18",
+            "q1": "Sim",
+            "q2": "Sim",
+            "q3": "Sim",
+            "q4": "Sim",
+            "q5": "Sim",
+            "q6": "Sim",
+            "q7": "Não",
+            "q8": "Sim",
+            "q9": "Não",
+            "q10": "Não",
+            "q11": "Não",
+            "q12": "Sim",
+            "q13": "Não",
+            "q14": "Sim",
+            "q15": "Não",
+            "q16": "Não",
+            "q17": "Sim",
+            "q18": "Sim",
+            "q19": "Sim",
+            "q20": "Sim",
+            "q21": "Não",
+            "q22": "Sim",
+            "q23": "Sim",
+            "q24": "Sim",
+            "q25": "Sim",
+            "q26": "Sim"
+        },
+        "8476058578": {
+            "etapa": "q26",
+            "nome": "Manuela",
+            "idade": "20",
+            "q1": "Sim",
+            "q2": "Sim",
+            "q3": "Sim",
+            "q4": "Não",
+            "q5": "Sim",
+            "q6": "Não",
+            "q7": "Sim",
+            "q8": "Não",
+            "q9": "Não",
+            "q10": "Não",
+            "q11": "Sim",
+            "q12": "Sim",
+            "q13": "Sim",
+            "q14": "Não",
+            "q15": "Sim",
+            "q16": "Sim",
+            "q17": "Sim",
+            "q18": "Sim",
+            "q19": "Sim",
+            "q20": "Sim",
+            "q21": "Sim",
+            "q22": "Sim",
+            "q23": "Não",
+            "q24": "Não",
+            "q25": "Sim",
+            "q26": "Sim"
+        },
+        "7359994085": {
+            "etapa": "q26",
+            "nome": "Emanuelle",
+            "idade": "16",
+            "q1": "Sim",
+            "q2": "Sim",
+            "q3": "Sim",
+            "q4": "Sim",
+            "q5": "Não",
+            "q6": "Sim",
+            "q7": "Sim",
+            "q8": "Sim",
+            "q9": "Sim",
+            "q10": "Sim",
+            "q11": "Sim",
+            "q12": "Sim",
+            "q13": "Sim",
+            "q14": "Não",
+            "q15": "Sim",
+            "q16": "Sim",
+            "q17": "Sim",
+            "q18": "Sim",
+            "q19": "Sim",
+            "q20": "Sim",
+            "q21": "Sim",
+            "q22": "Sim",
+            "q23": "Não",
+            "q24": "Sim",
+            "q25": "Sim",
+            "q26": "Sim"
+        },
+        "1307524156": {
+            "etapa": "q26",
+            "nome": "Roberta",
+            "idade": "36",
+            "q1": "Sim",
+            "q2": "Não",
+            "q3": "Sim",
+            "q4": "Sim",
+            "q5": "Sim",
+            "q6": "Não",
+            "q7": "Sim",
+            "q8": "Sim",
+            "q9": "Sim",
+            "q10": "Sim",
+            "q11": "Sim",
+            "q12": "Sim",
+            "q13": "Sim",
+            "q14": "Não",
+            "q15": "Não",
+            "q16": "Sim",
+            "q17": "Sim",
+            "q18": "Sim",
+            "q19": "Sim",
+            "q20": "Sim",
+            "q21": "Sim",
+            "q22": "Sim",
+            "q23": "Sim",
+            "q24": "Sim",
+            "q25": "Sim",
+            "q26": "Sim"
+        },
+        "5954216424": {
+            "etapa": "nome"
+        },
+        "8428718599": {
+            "etapa": "q26",
+            "nome": "Ana Paula",
+            "idade": "25",
+            "q1": "Sim",
+            "q2": "Sim",
+            "q3": "Não",
+            "q4": "Não",
+            "q5": "Sim",
+            "q6": "Não",
+            "q7": "Não",
+            "q8": "Sim",
+            "q9": "Sim",
+            "q10": "Sim",
+            "q11": "Sim",
+            "q12": "Sim",
+            "q13": "Não",
+            "q14": "Não",
+            "q15": "Não",
+            "q16": "Sim",
+            "q17": "Sim",
+            "q18": "Sim",
+            "q19": "Não",
+            "q20": "Sim",
+            "q21": "Sim",
+            "q22": "Sim",
+            "q23": "Sim",
+            "q24": "Não",
+            "q25": "Sim",
+            "q26": "Sim"
+        },
+        "1151048187": {
+            "etapa": "nome"
+        },
+        "6536287440": {
+            "etapa": "q26",
+            "nome": "Yasmin",
+            "idade": "17",
+            "q1": "Sim",
+            "q2": "Sim",
+            "q3": "Sim",
+            "q4": "Sim",
+            "q5": "Sim",
+            "q6": "Sim",
+            "q7": "Sim",
+            "q8": "Sim",
+            "q9": "Sim",
+            "q10": "Sim",
+            "q11": "Sim",
+            "q12": "Sim",
+            "q13": "Sim",
+            "q14": "Sim",
+            "q15": "Sim",
+            "q16": "Sim",
+            "q17": "Sim",
+            "q18": "Sim",
+            "q19": "Sim",
+            "q20": "Não",
+            "q21": "Não",
+            "q22": "Sim",
+            "q23": "Não",
+            "q24": "Sim",
+            "q25": "Sim",
+            "q26": "Sim"
+        },
+        "8056973012": {
+            "etapa": "q26",
+            "nome": "Eduarda",
+            "idade": "20",
+            "q1": "Sim",
+            "q2": "Sim",
+            "q3": "Sim",
+            "q4": "Não",
+            "q5": "Sim",
+            "q6": "Não",
+            "q7": "Não",
+            "q8": "Não",
+            "q9": "Não",
+            "q10": "Sim",
+            "q11": "Sim",
+            "q12": "Sim",
+            "q13": "Não",
+            "q14": "Não",
+            "q15": "Não",
+            "q16": "Sim",
+            "q17": "Não",
+            "q18": "Sim",
+            "q19": "Sim",
+            "q20": "Sim",
+            "q21": "Sim",
+            "q22": "Sim",
+            "q23": "Sim",
+            "q24": "Não",
+            "q25": "Sim",
+            "q26": "Sim"
+        },
+        "5010042485": {
+            "etapa": "q26",
+            "nome": "Aliene",
+            "idade": "62",
+            "q1": "Sim",
+            "q2": "Sim",
+            "q3": "Não",
+            "q4": "Não",
+            "q5": "Sim",
+            "q6": "Não",
+            "q7": "Não",
+            "q8": "Sim",
+            "q9": "Sim",
+            "q10": "Sim",
+            "q11": "Sim",
+            "q12": "Sim",
+            "q13": "Sim",
+            "q14": "Não",
+            "q15": "Sim",
+            "q16": "Sim",
+            "q17": "Sim",
+            "q18": "Sim",
+            "q19": "Sim",
+            "q20": "Sim",
+            "q21": "Não",
+            "q22": "Sim",
+            "q23": "Não",
+            "q24": "Sim",
+            "q25": "Sim",
+            "q26": "Sim"
+        },
+        "5796657662": {
+            "etapa": "q26",
+            "nome": "Giovanna",
+            "idade": "23",
+            "q1": "Sim",
+            "q2": "Sim",
+            "q3": "Sim",
+            "q4": "Sim",
+            "q5": "Sim",
+            "q6": "Não",
+            "q7": "Não",
+            "q8": "Sim",
+            "q9": "Sim",
+            "q10": "Sim",
+            "q11": "Sim",
+            "q12": "Sim",
+            "q13": "Não",
+            "q14": "Não",
+            "q15": "Sim",
+            "q16": "Não",
+            "q17": "Sim",
+            "q18": "Sim",
+            "q19": "Não",
+            "q20": "Sim",
+            "q21": "Sim",
+            "q22": "Sim",
+            "q23": "Sim",
+            "q24": "Sim",
+            "q25": "Sim",
+            "q26": "Sim"
+        },
+        "532123731": {
+            "etapa": "q26",
+            "nome": "Ana Carolina Demétrio",
+            "idade": "31",
+            "q1": "Sim",
+            "q2": "Sim",
+            "q3": "Sim",
+            "q4": "Sim",
+            "q5": "Sim",
+            "q6": "Sim",
+            "q7": "Sim",
+            "q8": "Sim",
+            "q9": "Sim",
+            "q10": "Sim",
+            "q11": "Sim",
+            "q12": "Sim",
+            "q13": "Sim",
+            "q14": "Sim",
+            "q15": "Sim",
+            "q16": "Sim",
+            "q17": "Sim",
+            "q18": "Sim",
+            "q19": "Sim",
+            "q20": "Sim",
+            "q21": "Sim",
+            "q22": "Sim",
+            "q23": "Sim",
+            "q24": "Sim",
+            "q25": "Sim",
+            "q26": "Sim"
+        },
+        "8450100073": {
+            "etapa": "nome"
+        },
+        "7330082598": {
+            "etapa": "q26",
+            "nome": "Tatiana",
+            "idade": "30",
+            "q1": "Sim",
+            "q2": "Sim",
+            "q3": "Não",
+            "q4": "Sim",
+            "q5": "Sim",
+            "q6": "Não",
+            "q7": "Não",
+            "q8": "Sim",
+            "q9": "Sim",
+            "q10": "Sim",
+            "q11": "Sim",
+            "q12": "Sim",
+            "q13": "Não",
+            "q14": "Não",
+            "q15": "Não",
+            "q16": "Sim",
+            "q17": "Sim",
+            "q18": "Sim",
+            "q19": "Sim",
+            "q20": "Sim",
+            "q21": "Sim",
+            "q22": "Sim",
+            "q23": "Não",
+            "q24": "Sim",
+            "q25": "Sim",
+            "q26": "Sim"
+        },
+        "7083810757": {
+            "etapa": "q26",
+            "nome": "Seraphina",
+            "idade": "21",
+            "q1": "Sim",
+            "q2": "Sim",
+            "q3": "Sim",
+            "q4": "Sim",
+            "q5": "Sim",
+            "q6": "Não",
+            "q7": "Não",
+            "q8": "Sim",
+            "q9": "Sim",
+            "q10": "Sim",
+            "q11": "Sim",
+            "q12": "Sim",
+            "q13": "Sim",
+            "q14": "Sim",
+            "q15": "Sim",
+            "q16": "Sim",
+            "q17": "Sim",
+            "q18": "Sim",
+            "q19": "Sim",
+            "q20": "Sim",
+            "q21": "Sim",
+            "q22": "Sim",
+            "q23": "Sim",
+            "q24": "Sim",
+            "q25": "Sim",
+            "q26": "Sim"
+        },
+        "1130170420": {
+            "etapa": "nome"
+        },
+        "1573160146": {
+            "etapa": "q26",
+            "nome": "Stephanie",
+            "idade": "29",
+            "q1": "Sim",
+            "q2": "Sim",
+            "q3": "Sim",
+            "q4": "Sim",
+            "q5": "Sim",
+            "q6": "Não",
+            "q7": "Não",
+            "q8": "Sim",
+            "q9": "Sim",
+            "q10": "Sim",
+            "q11": "Sim",
+            "q12": "Sim",
+            "q13": "Sim",
+            "q14": "Não",
+            "q15": "Não",
+            "q16": "Sim",
+            "q17": "Sim",
+            "q18": "Sim",
+            "q19": "Sim",
+            "q20": "Sim",
+            "q21": "Sim",
+            "q22": "Sim",
+            "q23": "Não",
+            "q24": "Sim",
+            "q25": "Sim",
+            "q26": "Sim"
+        },
+        "5869790786": {
+            "etapa": "nome"
+        },
+        "6413972609": {
+            "etapa": "nome"
+        },
+        "7749040592": {
+            "etapa": "q26",
+            "nome": "Bianca",
+            "idade": "25",
+            "q1": "Sim",
+            "q2": "Sim",
+            "q3": "Sim",
+            "q4": "Sim",
+            "q5": "Sim",
+            "q6": "Sim",
+            "q7": "Sim",
+            "q8": "Sim",
+            "q9": "Sim",
+            "q10": "Sim",
+            "q11": "Sim",
+            "q12": "Sim",
+            "q13": "Sim",
+            "q14": "Sim",
+            "q15": "Sim",
+            "q16": "Não",
+            "q17": "Sim",
+            "q18": "Sim",
+            "q19": "Sim",
+            "q20": "Não",
+            "q21": "Sim",
+            "q22": "Sim",
+            "q23": "Sim",
+            "q24": "Sim",
+            "q25": "Sim",
+            "q26": "Sim"
+        },
+        "1972978460": {
+            "etapa": "q26",
+            "nome": "Thaynara",
+            "idade": "30",
+            "q1": "Sim",
+            "q2": "Sim",
+            "q3": "Sim",
+            "q4": "Sim",
+            "q5": "Sim",
+            "q6": "Não",
+            "q7": "Sim",
+            "q8": "Sim",
+            "q9": "Sim",
+            "q10": "Sim",
+            "q11": "Não",
+            "q12": "Sim",
+            "q13": "Não",
+            "q14": "Não",
+            "q15": "Não",
+            "q16": "Não",
+            "q17": "Sim",
+            "q18": "Sim",
+            "q19": "Não",
+            "q20": "Sim",
+            "q21": "Não",
+            "q22": "Sim",
+            "q23": "Sim",
+            "q24": "Não",
+            "q25": "Sim",
+            "q26": "Sim"
+        },
+        "5171363459": {
+            "etapa": "q26",
+            "nome": "Boa noite",
+            "idade": "24",
+            "q1": "Sim",
+            "q2": "Sim",
+            "q3": "Sim",
+            "q4": "Sim",
+            "q5": "Sim",
+            "q6": "Sim",
+            "q7": "Sim",
+            "q8": "Sim",
+            "q9": "Sim",
+            "q10": "Sim",
+            "q11": "Sim",
+            "q12": "Sim",
+            "q13": "Sim",
+            "q14": "Sim",
+            "q15": "Sim",
+            "q16": "Sim",
+            "q17": "Sim",
+            "q18": "Sim",
+            "q19": "Sim",
+            "q20": "Sim",
+            "q21": "Sim",
+            "q22": "Sim",
+            "q23": "Sim",
+            "q24": "Sim",
+            "q25": "Sim",
+            "q26": "Sim"
+        },
+        "7559245004": {
+            "etapa": "q26",
+            "nome": "Jéssica",
+            "idade": "25",
+            "q1": "Sim",
+            "q2": "Sim",
+            "q3": "Sim",
+            "q4": "Sim",
+            "q5": "Sim",
+            "q6": "Sim",
+            "q7": "Sim",
+            "q8": "Sim",
+            "q9": "Sim",
+            "q10": "Sim",
+            "q11": "Sim",
+            "q12": "Sim",
+            "q13": "Sim",
+            "q14": "Sim",
+            "q15": "Sim",
+            "q16": "Sim",
+            "q17": "Sim",
+            "q18": "Sim",
+            "q19": "Sim",
+            "q20": "Sim",
+            "q21": "Sim",
+            "q22": "Sim",
+            "q23": "Sim",
+            "q24": "Sim",
+            "q25": "Sim",
+            "q26": "Sim"
+        },
+        "1135210475": {
+            "etapa": "q26",
+            "nome": "Oi",
+            "idade": "52",
+            "q1": "Sim",
+            "q2": "Sim",
+            "q3": "Sim",
+            "q4": "Sim",
+            "q5": "Sim",
+            "q6": "Sim",
+            "q7": "Sim",
+            "q8": "Sim",
+            "q9": "Sim",
+            "q10": "Sim",
+            "q11": "Sim",
+            "q12": "Sim",
+            "q13": "Sim",
+            "q14": "Sim",
+            "q15": "Sim",
+            "q16": "Sim",
+            "q17": "Sim",
+            "q18": "Não",
+            "q19": "Não",
+            "q20": "Sim",
+            "q21": "Sim",
+            "q22": "Sim",
+            "q23": "Sim",
+            "q24": "Sim",
+            "q25": "Sim",
+            "q26": "Sim"
+        },
+        "6323432079": {
+            "etapa": "q26",
+            "nome": "Daniella",
+            "idade": "24",
+            "q1": "Sim",
+            "q2": "Sim",
+            "q3": "Sim",
+            "q4": "Sim",
+            "q5": "Sim",
+            "q6": "Sim",
+            "q7": "Sim",
+            "q8": "Sim",
+            "q9": "Sim",
+            "q10": "Sim",
+            "q11": "Sim",
+            "q12": "Sim",
+            "q13": "Sim",
+            "q14": "Sim",
+            "q15": "Sim",
+            "q16": "Sim",
+            "q17": "Sim",
+            "q18": "Sim",
+            "q19": "Sim",
+            "q20": "Sim",
+            "q21": "Sim",
+            "q22": "Sim",
+            "q23": "Sim",
+            "q24": "Sim",
+            "q25": "Sim",
+            "q26": "Sim"
+        }
+    },
+    "fichas_alunos": {},
+    "alunos_pendentes": {
+        "8484325386": {
+            "nome": "Yara santos",
+            "motivos": [
+                "• Ainda falta foto/imagem no perfil"
+            ],
+            "ficha": "🦉 Coruja da Biblioteca\n\n🧪 FICHA DE ALUNO\n\n👤 Nome: Yara santos\n🎂 Idade: 42\n🆔 ID Telegram: 8484325386\n🔗 Usuário: @Yarasantos1984\n👁 Perfil: tg://user?id=8484325386\n📸 Foto no perfil: Sim\n📌 Status: aguardando avaliação\n\n1. 📚 Você gosta de romance?\nResposta: Sim\n\n2. 🖤 Você gosta de Dark Romance?\nResposta: Sim\n\n3. ✨ Você gosta de fantasia?\nResposta: Sim\n\n4. 📖 Você gosta de histórias de escola/adolescentes (Young Adult)?\nResposta: Sim\n\n5. 🌶️ Você gosta de livros hot/+18?\nResposta: Sim\n\n6. 👻 Você gosta de terror/horror?\nResposta: Sim\n\n7. 🔍 Você gosta de suspense/thriller?\nResposta: Sim\n\n8. ⚔️ Você gosta de Enemies to Lovers?\nResposta: Sim\n\n9. 💥 Você gosta de Rivals to Lovers?\nResposta: Sim\n\n10. ⏳ Você gosta de Age Gap/diferença de idade?\nResposta: Sim\n\n11. 🩶 Você gosta de personagens moralmente cinzentos?\nResposta: Sim\n\n12. 🖤 Você gosta de anti-heróis?\nResposta: Sim\n\n13. 💔 Você gosta de drama emocional forte?\nResposta: Sim\n\n14. 🔺 Você gosta de triângulo amoroso?\nResposta: Sim\n\n15. 🌑 Você gosta de temas sombrios?\nResposta: Sim\n\n16. 🔥 Você gosta de histórias intensas/pesadas?\nResposta: Sim\n\n17. 🎭 Você gosta de plot twist/reviravoltas?\nResposta: Sim\n\n18. 💍 Você gosta de final feliz?\nResposta: Sim\n\n19. 📚 Você gosta de séries/sagas longas?\nResposta: Sim\n\n20. 📘 Você prefere livros únicos?\nResposta: Sim\n\n21. 🔁 Você costuma reler livros favoritos?\nResposta: Sim\n\n22. 🆕 Você gosta de descobrir livros novos?\nResposta: Sim\n\n23. ⚡ Você prefere leitura rápida?\nResposta: Sim\n\n24. 📖 Você costuma ler com frequência?\nResposta: Sim\n\n25. ⏳ Você tem paciência para aguardar pedidos?\nResposta: Sim\n\n26. 📦 Você entende que nem todos os livros estarão disponíveis?\nResposta: Sim\n",
+            "status": "Aprovado, mas pendente de perfil"
+        }
+    },
+    "alunos_liberados": {
+        "8672397104": {
+            "nome": "Jéssica",
+            "username": "aurellioon",
+            "status": "Entrou no grupo oficial",
+            "ficha": "🦉 Coruja da Biblioteca\n\n🧪 FICHA DE ALUNO\n\n👤 Nome: Jéssica\n🎂 Idade: 50\n🆔 ID Telegram: 8672397104\n🔗 Usuário: @aurellioon\n👁 Perfil: tg://user?id=8672397104\n📸 Foto no perfil: Sim\n📌 Status: aguardando avaliação\n\n1. 📚 Você gosta de romance?\nResposta: Sim\n\n2. 🖤 Você gosta de Dark Romance?\nResposta: Sim\n\n3. ✨ Você gosta de fantasia?\nResposta: Sim\n\n4. 📖 Você gosta de histórias de escola/adolescentes (Young Adult)?\nResposta: Não\n\n5. 🌶️ Você gosta de livros hot/+18?\nResposta: Não\n\n6. 👻 Você gosta de terror/horror?\nResposta: Não\n\n7. 🔍 Você gosta de suspense/thriller?\nResposta: Não\n\n8. ⚔️ Você gosta de Enemies to Lovers?\nResposta: Não\n\n9. 💥 Você gosta de Rivals to Lovers?\nResposta: Não\n\n10. ⏳ Você gosta de Age Gap/diferença de idade?\nResposta: Não\n\n11. 🩶 Você gosta de personagens moralmente cinzentos?\nResposta: Não\n\n12. 🖤 Você gosta de anti-heróis?\nResposta: Não\n\n13. 💔 Você gosta de drama emocional forte?\nResposta: Não\n\n14. 🔺 Você gosta de triângulo amoroso?\nResposta: Não\n\n15. 🌑 Você gosta de temas sombrios?\nResposta: Não\n\n16. 🔥 Você gosta de histórias intensas/pesadas?\nResposta: Não\n\n17. 🎭 Você gosta de plot twist/reviravoltas?\nResposta: Não\n\n18. 💍 Você gosta de final feliz?\nResposta: Não\n\n19. 📚 Você gosta de séries/sagas longas?\nResposta: Não\n\n20. 📘 Você prefere livros únicos?\nResposta: Não\n\n21. 🔁 Você costuma reler livros favoritos?\nResposta: Não\n\n22. 🆕 Você gosta de descobrir livros novos?\nResposta: Não\n\n23. ⚡ Você prefere leitura rápida?\nResposta: Não\n\n24. 📖 Você costuma ler com frequência?\nResposta: Não\n\n25. ⏳ Você tem paciência para aguardar pedidos?\nResposta: Não\n\n26. 📦 Você entende que nem todos os livros estarão disponíveis?\nResposta: Não\n"
+        },
+        "2127632643": {
+            "nome": "Carla",
+            "username": "caafernandes",
+            "status": "Entrou no grupo oficial",
+            "ficha": "🦉 Coruja da Biblioteca\n\n🧪 FICHA DE ALUNO\n\n👤 Nome: Carla\n🎂 Idade: 30\n🆔 ID Telegram: 2127632643\n\n1. 📚 Você gosta de romance?\nResposta: Sim\n\n2. 🖤 Você gosta de Dark Romance?\nResposta: Sim\n\n3. ✨ Você gosta de fantasia?\nResposta: Sim\n\n4. 📖 Você gosta de histórias de escola/adolescentes (Young Adult)?\nResposta: Não\n\n5. 🌶️ Você gosta de livros hot/+18?\nResposta: Sim\n\n6. 👻 Você gosta de terror/horror?\nResposta: Sim\n\n7. 🔍 Você gosta de suspense/thriller?\nResposta: Sim\n\n8. ⚔️ Você gosta de Enemies to Lovers?\nResposta: Não\n\n9. 💥 Você gosta de Rivals to Lovers?\nResposta: Não\n\n10. ⏳ Você gosta de Age Gap/diferença de idade?\nResposta: Sim\n\n11. 🩶 Você gosta de personagens moralmente cinzentos?\nResposta: Não\n\n12. 🖤 Você gosta de anti-heróis?\nResposta: Não\n\n13. 💔 Você gosta de drama emocional forte?\nResposta: Não\n\n14. 🔺 Você gosta de triângulo amoroso?\nResposta: Sim\n\n15. 🌑 Você gosta de temas sombrios?\nResposta: Sim\n\n16. 🔥 Você gosta de histórias intensas/pesadas?\nResposta: Sim\n\n17. 🎭 Você gosta de plot twist/reviravoltas?\nResposta: Sim\n\n18. 💍 Você gosta de final feliz?\nResposta: Sim\n\n19. 📚 Você gosta de séries/sagas longas?\nResposta: Não\n\n20. 📘 Você prefere livros únicos?\nResposta: Sim\n\n21. 🔁 Você costuma reler livros favoritos?\nResposta: Não\n\n22. 🆕 Você gosta de descobrir livros novos?\nResposta: Sim\n\n23. ⚡ Você prefere leitura rápida?\nResposta: Não\n\n24. 📖 Você costuma ler com frequência?\nResposta: Sim\n\n25. ⏳ Você tem paciência para aguardar pedidos?\nResposta: Sim\n\n26. 📦 Você entende que nem todos os livros estarão disponíveis?\nResposta: Sim\n"
+        },
+        "8034386160": {
+            "nome": "Keila",
+            "username": "Keilaoliveira521",
+            "status": "Entrou no grupo oficial",
+            "ficha": "🦉 Coruja da Biblioteca\n\n🧪 FICHA DE ALUNO\n\n👤 Nome: Keila\n🎂 Idade: 26\n🆔 ID Telegram: 8034386160\n\n1. 📚 Você gosta de romance?\nResposta: Sim\n\n2. 🖤 Você gosta de Dark Romance?\nResposta: Sim\n\n3. ✨ Você gosta de fantasia?\nResposta: Sim\n\n4. 📖 Você gosta de histórias de escola/adolescentes (Young Adult)?\nResposta: Sim\n\n5. 🌶️ Você gosta de livros hot/+18?\nResposta: Sim\n\n6. 👻 Você gosta de terror/horror?\nResposta: Sim\n\n7. 🔍 Você gosta de suspense/thriller?\nResposta: Sim\n\n8. ⚔️ Você gosta de Enemies to Lovers?\nResposta: Sim\n\n9. 💥 Você gosta de Rivals to Lovers?\nResposta: Sim\n\n10. ⏳ Você gosta de Age Gap/diferença de idade?\nResposta: Sim\n\n11. 🩶 Você gosta de personagens moralmente cinzentos?\nResposta: Sim\n\n12. 🖤 Você gosta de anti-heróis?\nResposta: Sim\n\n13. 💔 Você gosta de drama emocional forte?\nResposta: Sim\n\n14. 🔺 Você gosta de triângulo amoroso?\nResposta: Sim\n\n15. 🌑 Você gosta de temas sombrios?\nResposta: Sim\n\n16. 🔥 Você gosta de histórias intensas/pesadas?\nResposta: Sim\n\n17. 🎭 Você gosta de plot twist/reviravoltas?\nResposta: Sim\n\n18. 💍 Você gosta de final feliz?\nResposta: Sim\n\n19. 📚 Você gosta de séries/sagas longas?\nResposta: Sim\n\n20. 📘 Você prefere livros únicos?\nResposta: Sim\n\n21. 🔁 Você costuma reler livros favoritos?\nResposta: Sim\n\n22. 🆕 Você gosta de descobrir livros novos?\nResposta: Sim\n\n23. ⚡ Você prefere leitura rápida?\nResposta: Sim\n\n24. 📖 Você costuma ler com frequência?\nResposta: Sim\n\n25. ⏳ Você tem paciência para aguardar pedidos?\nResposta: Sim\n\n26. 📦 Você entende que nem todos os livros estarão disponíveis?\nResposta: Sim\n"
+        },
+        "7519903775": {
+            "nome": "Raely",
+            "username": "raelyalves",
+            "status": "Entrou no grupo oficial",
+            "ficha": "🦉 Coruja da Biblioteca\n\n🧪 FICHA DE ALUNO\n\n👤 Nome: Raely\n🎂 Idade: 22\n🆔 ID Telegram: 7519903775\n\n1. 📚 Você gosta de romance?\nResposta: Sim\n\n2. 🖤 Você gosta de Dark Romance?\nResposta: Sim\n\n3. ✨ Você gosta de fantasia?\nResposta: Sim\n\n4. 📖 Você gosta de histórias de escola/adolescentes (Young Adult)?\nResposta: Sim\n\n5. 🌶️ Você gosta de livros hot/+18?\nResposta: Sim\n\n6. 👻 Você gosta de terror/horror?\nResposta: Sim\n\n7. 🔍 Você gosta de suspense/thriller?\nResposta: Sim\n\n8. ⚔️ Você gosta de Enemies to Lovers?\nResposta: Sim\n\n9. 💥 Você gosta de Rivals to Lovers?\nResposta: Sim\n\n10. ⏳ Você gosta de Age Gap/diferença de idade?\nResposta: Sim\n\n11. 🩶 Você gosta de personagens moralmente cinzentos?\nResposta: Sim\n\n12. 🖤 Você gosta de anti-heróis?\nResposta: Sim\n\n13. 💔 Você gosta de drama emocional forte?\nResposta: Sim\n\n14. 🔺 Você gosta de triângulo amoroso?\nResposta: Sim\n\n15. 🌑 Você gosta de temas sombrios?\nResposta: Sim\n\n16. 🔥 Você gosta de histórias intensas/pesadas?\nResposta: Sim\n\n17. 🎭 Você gosta de plot twist/reviravoltas?\nResposta: Sim\n\n18. 💍 Você gosta de final feliz?\nResposta: Sim\n\n19. 📚 Você gosta de séries/sagas longas?\nResposta: Sim\n\n20. 📘 Você prefere livros únicos?\nResposta: Sim\n\n21. 🔁 Você costuma reler livros favoritos?\nResposta: Sim\n\n22. 🆕 Você gosta de descobrir livros novos?\nResposta: Sim\n\n23. ⚡ Você prefere leitura rápida?\nResposta: Sim\n\n24. 📖 Você costuma ler com frequência?\nResposta: Sim\n\n25. ⏳ Você tem paciência para aguardar pedidos?\nResposta: Sim\n\n26. 📦 Você entende que nem todos os livros estarão disponíveis?\nResposta: Sim\n"
+        },
+        "5734899128": {
+            "nome": "Maria Vitória",
+            "username": "musaprofana",
+            "status": "Entrou no grupo oficial",
+            "ficha": "🦉 Coruja da Biblioteca\n\n🧪 FICHA DE ALUNO\n\n👤 Nome: Maria Vitória\n🎂 Idade: 21\n🆔 ID Telegram: 5734899128\n\n1. 📚 Você gosta de romance?\nResposta: Sim\n\n2. 🖤 Você gosta de Dark Romance?\nResposta: Sim\n\n3. ✨ Você gosta de fantasia?\nResposta: Sim\n\n4. 📖 Você gosta de histórias de escola/adolescentes (Young Adult)?\nResposta: Sim\n\n5. 🌶️ Você gosta de livros hot/+18?\nResposta: Sim\n\n6. 👻 Você gosta de terror/horror?\nResposta: Sim\n\n7. 🔍 Você gosta de suspense/thriller?\nResposta: Sim\n\n8. ⚔️ Você gosta de Enemies to Lovers?\nResposta: Sim\n\n9. 💥 Você gosta de Rivals to Lovers?\nResposta: Sim\n\n10. ⏳ Você gosta de Age Gap/diferença de idade?\nResposta: Sim\n\n11. 🩶 Você gosta de personagens moralmente cinzentos?\nResposta: Sim\n\n12. 🖤 Você gosta de anti-heróis?\nResposta: Sim\n\n13. 💔 Você gosta de drama emocional forte?\nResposta: Sim\n\n14. 🔺 Você gosta de triângulo amoroso?\nResposta: Sim\n\n15. 🌑 Você gosta de temas sombrios?\nResposta: Sim\n\n16. 🔥 Você gosta de histórias intensas/pesadas?\nResposta: Sim\n\n17. 🎭 Você gosta de plot twist/reviravoltas?\nResposta: Sim\n\n18. 💍 Você gosta de final feliz?\nResposta: Sim\n\n19. 📚 Você gosta de séries/sagas longas?\nResposta: Sim\n\n20. 📘 Você prefere livros únicos?\nResposta: Sim\n\n21. 🔁 Você costuma reler livros favoritos?\nResposta: Sim\n\n22. 🆕 Você gosta de descobrir livros novos?\nResposta: Sim\n\n23. ⚡ Você prefere leitura rápida?\nResposta: Sim\n\n24. 📖 Você costuma ler com frequência?\nResposta: Sim\n\n25. ⏳ Você tem paciência para aguardar pedidos?\nResposta: Sim\n\n26. 📦 Você entende que nem todos os livros estarão disponíveis?\nResposta: Sim\n"
+        },
+        "8036270910": {
+            "nome": "Vitória",
+            "username": "vitoriaszt",
+            "status": "Entrou no grupo oficial",
+            "ficha": "🦉 Coruja da Biblioteca\n\n🧪 FICHA DE ALUNO\n\n👤 Nome: Vitória\n🎂 Idade: 20\n🆔 ID Telegram: 8036270910\n\n1. 📚 Você gosta de romance?\nResposta: Sim\n\n2. 🖤 Você gosta de Dark Romance?\nResposta: Não\n\n3. ✨ Você gosta de fantasia?\nResposta: Sim\n\n4. 📖 Você gosta de histórias de escola/adolescentes (Young Adult)?\nResposta: Sim\n\n5. 🌶️ Você gosta de livros hot/+18?\nResposta: Sim\n\n6. 👻 Você gosta de terror/horror?\nResposta: Sim\n\n7. 🔍 Você gosta de suspense/thriller?\nResposta: Sim\n\n8. ⚔️ Você gosta de Enemies to Lovers?\nResposta: Sim\n\n9. 💥 Você gosta de Rivals to Lovers?\nResposta: Sim\n\n10. ⏳ Você gosta de Age Gap/diferença de idade?\nResposta: Sim\n\n11. 🩶 Você gosta de personagens moralmente cinzentos?\nResposta: Sim\n\n12. 🖤 Você gosta de anti-heróis?\nResposta: Sim\n\n13. 💔 Você gosta de drama emocional forte?\nResposta: Sim\n\n14. 🔺 Você gosta de triângulo amoroso?\nResposta: Sim\n\n15. 🌑 Você gosta de temas sombrios?\nResposta: Não\n\n16. 🔥 Você gosta de histórias intensas/pesadas?\nResposta: Sim\n\n17. 🎭 Você gosta de plot twist/reviravoltas?\nResposta: Sim\n\n18. 💍 Você gosta de final feliz?\nResposta: Sim\n\n19. 📚 Você gosta de séries/sagas longas?\nResposta: Não\n\n20. 📘 Você prefere livros únicos?\nResposta: Sim\n\n21. 🔁 Você costuma reler livros favoritos?\nResposta: Não\n\n22. 🆕 Você gosta de descobrir livros novos?\nResposta: Sim\n\n23. ⚡ Você prefere leitura rápida?\nResposta: Não\n\n24. 📖 Você costuma ler com frequência?\nResposta: Sim\n\n25. ⏳ Você tem paciência para aguardar pedidos?\nResposta: Sim\n\n26. 📦 Você entende que nem todos os livros estarão disponíveis?\nResposta: Sim\n"
+        },
+        "8312949134": {
+            "nome": "Quero entrar no grupo",
+            "username": "EduhLm",
+            "status": "Entrou no grupo oficial",
+            "ficha": "🦉 Coruja da Biblioteca\n\n🧪 FICHA DE ALUNO\n\n👤 Nome: Quero entrar no grupo\n🎂 Idade: 21\n🆔 ID Telegram: 8312949134\n\n1. 📚 Você gosta de romance?\nResposta: Sim\n\n2. 🖤 Você gosta de Dark Romance?\nResposta: Sim\n\n3. ✨ Você gosta de fantasia?\nResposta: Sim\n\n4. 📖 Você gosta de histórias de escola/adolescentes (Young Adult)?\nResposta: Sim\n\n5. 🌶️ Você gosta de livros hot/+18?\nResposta: Sim\n\n6. 👻 Você gosta de terror/horror?\nResposta: Sim\n\n7. 🔍 Você gosta de suspense/thriller?\nResposta: Sim\n\n8. ⚔️ Você gosta de Enemies to Lovers?\nResposta: Sim\n\n9. 💥 Você gosta de Rivals to Lovers?\nResposta: Sim\n\n10. ⏳ Você gosta de Age Gap/diferença de idade?\nResposta: Sim\n\n11. 🩶 Você gosta de personagens moralmente cinzentos?\nResposta: Sim\n\n12. 🖤 Você gosta de anti-heróis?\nResposta: Sim\n\n13. 💔 Você gosta de drama emocional forte?\nResposta: Não\n\n14. 🔺 Você gosta de triângulo amoroso?\nResposta: Não\n\n15. 🌑 Você gosta de temas sombrios?\nResposta: Não\n\n16. 🔥 Você gosta de histórias intensas/pesadas?\nResposta: Sim\n\n17. 🎭 Você gosta de plot twist/reviravoltas?\nResposta: Sim\n\n18. 💍 Você gosta de final feliz?\nResposta: Sim\n\n19. 📚 Você gosta de séries/sagas longas?\nResposta: Sim\n\n20. 📘 Você prefere livros únicos?\nResposta: Sim\n\n21. 🔁 Você costuma reler livros favoritos?\nResposta: Sim\n\n22. 🆕 Você gosta de descobrir livros novos?\nResposta: Sim\n\n23. ⚡ Você prefere leitura rápida?\nResposta: Não\n\n24. 📖 Você costuma ler com frequência?\nResposta: Sim\n\n25. ⏳ Você tem paciência para aguardar pedidos?\nResposta: Sim\n\n26. 📦 Você entende que nem todos os livros estarão disponíveis?\nResposta: Sim\n"
+        },
+        "1794355662": {
+            "nome": "Vitória",
+            "username": "ykftll",
+            "status": "Entrou no grupo oficial",
+            "ficha": "🦉 Coruja da Biblioteca\n\n🧪 FICHA DE ALUNO\n\n👤 Nome: Vitória\n🎂 Idade: 19\n🆔 ID Telegram: 1794355662\n\n1. 📚 Você gosta de romance?\nResposta: Sim\n\n2. 🖤 Você gosta de Dark Romance?\nResposta: Sim\n\n3. ✨ Você gosta de fantasia?\nResposta: Sim\n\n4. 📖 Você gosta de histórias de escola/adolescentes (Young Adult)?\nResposta: Sim\n\n5. 🌶️ Você gosta de livros hot/+18?\nResposta: Sim\n\n6. 👻 Você gosta de terror/horror?\nResposta: Sim\n\n7. 🔍 Você gosta de suspense/thriller?\nResposta: Sim\n\n8. ⚔️ Você gosta de Enemies to Lovers?\nResposta: Sim\n\n9. 💥 Você gosta de Rivals to Lovers?\nResposta: Sim\n\n10. ⏳ Você gosta de Age Gap/diferença de idade?\nResposta: Não\n\n11. 🩶 Você gosta de personagens moralmente cinzentos?\nResposta: Sim\n\n12. 🖤 Você gosta de anti-heróis?\nResposta: Sim\n\n13. 💔 Você gosta de drama emocional forte?\nResposta: Sim\n\n14. 🔺 Você gosta de triângulo amoroso?\nResposta: Não\n\n15. 🌑 Você gosta de temas sombrios?\nResposta: Sim\n\n16. 🔥 Você gosta de histórias intensas/pesadas?\nResposta: Sim\n\n17. 🎭 Você gosta de plot twist/reviravoltas?\nResposta: Sim\n\n18. 💍 Você gosta de final feliz?\nResposta: Sim\n\n19. 📚 Você gosta de séries/sagas longas?\nResposta: Sim\n\n20. 📘 Você prefere livros únicos?\nResposta: Sim\n\n21. 🔁 Você costuma reler livros favoritos?\nResposta: Sim\n\n22. 🆕 Você gosta de descobrir livros novos?\nResposta: Sim\n\n23. ⚡ Você prefere leitura rápida?\nResposta: Sim\n\n24. 📖 Você costuma ler com frequência?\nResposta: Sim\n\n25. ⏳ Você tem paciência para aguardar pedidos?\nResposta: Sim\n\n26. 📦 Você entende que nem todos os livros estarão disponíveis?\nResposta: Sim\n"
+        },
+        "1574255056": {
+            "nome": "Nevermind",
+            "username": "Nevermind_Park",
+            "status": "Aprovado, link enviado",
+            "ficha": "🦉 Coruja da Biblioteca\n\n🧪 FICHA DE ALUNO\n\n👤 Nome: Nevermind\n🎂 Idade: 38 anos\n🆔 ID Telegram: 1574255056\n🔗 Usuário: @Nevermind_Park\n👁 Perfil: tg://user?id=1574255056\n📸 Foto no perfil: Sim\n📌 Status: aguardando avaliação\n\n1. 📚 Você gosta de romance?\nResposta: Sim\n\n2. 🖤 Você gosta de Dark Romance?\nResposta: Sim\n\n3. ✨ Você gosta de fantasia?\nResposta: Sim\n\n4. 📖 Você gosta de histórias de escola/adolescentes (Young Adult)?\nResposta: Sim\n\n5. 🌶️ Você gosta de livros hot/+18?\nResposta: Sim\n\n6. 👻 Você gosta de terror/horror?\nResposta: Sim\n\n7. 🔍 Você gosta de suspense/thriller?\nResposta: Sim\n\n8. ⚔️ Você gosta de Enemies to Lovers?\nResposta: Sim\n\n9. 💥 Você gosta de Rivals to Lovers?\nResposta: Sim\n\n10. ⏳ Você gosta de Age Gap/diferença de idade?\nResposta: Sim\n\n11. 🩶 Você gosta de personagens moralmente cinzentos?\nResposta: Sim\n\n12. 🖤 Você gosta de anti-heróis?\nResposta: Sim\n\n13. 💔 Você gosta de drama emocional forte?\nResposta: Sim\n\n14. 🔺 Você gosta de triângulo amoroso?\nResposta: Não\n\n15. 🌑 Você gosta de temas sombrios?\nResposta: Sim\n\n16. 🔥 Você gosta de histórias intensas/pesadas?\nResposta: Sim\n\n17. 🎭 Você gosta de plot twist/reviravoltas?\nResposta: Sim\n\n18. 💍 Você gosta de final feliz?\nResposta: Sim\n\n19. 📚 Você gosta de séries/sagas longas?\nResposta: Sim\n\n20. 📘 Você prefere livros únicos?\nResposta: Sim\n\n21. 🔁 Você costuma reler livros favoritos?\nResposta: Sim\n\n22. 🆕 Você gosta de descobrir livros novos?\nResposta: Sim\n\n23. ⚡ Você prefere leitura rápida?\nResposta: Sim\n\n24. 📖 Você costuma ler com frequência?\nResposta: Sim\n\n25. ⏳ Você tem paciência para aguardar pedidos?\nResposta: Sim\n\n26. 📦 Você entende que nem todos os livros estarão disponíveis?\nResposta: Sim\n"
+        },
+        "7025937739": {
+            "nome": "Nome completo ou só o primeiro?\nLaura",
+            "username": "Khaleesi_T",
+            "status": "Entrou no grupo oficial",
+            "ficha": "🦉 Coruja da Biblioteca\n\n🧪 FICHA DE ALUNO\n\n👤 Nome: Nome completo ou só o primeiro?\nLaura\n🎂 Idade: 19\n🆔 ID Telegram: 7025937739\n🔗 Usuário: @Khaleesi_T\n👁 Perfil: tg://user?id=7025937739\n📸 Foto no perfil: Sim\n📌 Status: aguardando avaliação\n\n1. 📚 Você gosta de romance?\nResposta: Sim\n\n2. 🖤 Você gosta de Dark Romance?\nResposta: Sim\n\n3. ✨ Você gosta de fantasia?\nResposta: Sim\n\n4. 📖 Você gosta de histórias de escola/adolescentes (Young Adult)?\nResposta: Não\n\n5. 🌶️ Você gosta de livros hot/+18?\nResposta: Sim\n\n6. 👻 Você gosta de terror/horror?\nResposta: Não\n\n7. 🔍 Você gosta de suspense/thriller?\nResposta: Não\n\n8. ⚔️ Você gosta de Enemies to Lovers?\nResposta: Sim\n\n9. 💥 Você gosta de Rivals to Lovers?\nResposta: Não\n\n10. ⏳ Você gosta de Age Gap/diferença de idade?\nResposta: Sim\n\n11. 🩶 Você gosta de personagens moralmente cinzentos?\nResposta: Sim\n\n12. 🖤 Você gosta de anti-heróis?\nResposta: Sim\n\n13. 💔 Você gosta de drama emocional forte?\nResposta: Não\n\n14. 🔺 Você gosta de triângulo amoroso?\nResposta: Não\n\n15. 🌑 Você gosta de temas sombrios?\nResposta: Não\n\n16. 🔥 Você gosta de histórias intensas/pesadas?\nResposta: Sim\n\n17. 🎭 Você gosta de plot twist/reviravoltas?\nResposta: Não\n\n18. 💍 Você gosta de final feliz?\nResposta: Sim\n\n19. 📚 Você gosta de séries/sagas longas?\nResposta: Não\n\n20. 📘 Você prefere livros únicos?\nResposta: Sim\n\n21. 🔁 Você costuma reler livros favoritos?\nResposta: Sim\n\n22. 🆕 Você gosta de descobrir livros novos?\nResposta: Sim\n\n23. ⚡ Você prefere leitura rápida?\nResposta: Sim\n\n24. 📖 Você costuma ler com frequência?\nResposta: Sim\n\n25. ⏳ Você tem paciência para aguardar pedidos?\nResposta: Sim\n\n26. 📦 Você entende que nem todos os livros estarão disponíveis?\nResposta: Sim\n"
+        },
+        "8476058578": {
+            "nome": "Manuela",
+            "username": "Maluttn",
+            "status": "Entrou no grupo oficial",
+            "ficha": "🦉 Coruja da Biblioteca\n\n🧪 FICHA DE ALUNO\n\n👤 Nome: Manuela\n🎂 Idade: 20\n🆔 ID Telegram: 8476058578\n🔗 Usuário: @Maluttn\n👁 Perfil: tg://user?id=8476058578\n📸 Foto no perfil: Sim\n📌 Status: aguardando avaliação\n\n1. 📚 Você gosta de romance?\nResposta: Sim\n\n2. 🖤 Você gosta de Dark Romance?\nResposta: Sim\n\n3. ✨ Você gosta de fantasia?\nResposta: Sim\n\n4. 📖 Você gosta de histórias de escola/adolescentes (Young Adult)?\nResposta: Não\n\n5. 🌶️ Você gosta de livros hot/+18?\nResposta: Sim\n\n6. 👻 Você gosta de terror/horror?\nResposta: Não\n\n7. 🔍 Você gosta de suspense/thriller?\nResposta: Sim\n\n8. ⚔️ Você gosta de Enemies to Lovers?\nResposta: Não\n\n9. 💥 Você gosta de Rivals to Lovers?\nResposta: Não\n\n10. ⏳ Você gosta de Age Gap/diferença de idade?\nResposta: Não\n\n11. 🩶 Você gosta de personagens moralmente cinzentos?\nResposta: Sim\n\n12. 🖤 Você gosta de anti-heróis?\nResposta: Sim\n\n13. 💔 Você gosta de drama emocional forte?\nResposta: Sim\n\n14. 🔺 Você gosta de triângulo amoroso?\nResposta: Não\n\n15. 🌑 Você gosta de temas sombrios?\nResposta: Sim\n\n16. 🔥 Você gosta de histórias intensas/pesadas?\nResposta: Sim\n\n17. 🎭 Você gosta de plot twist/reviravoltas?\nResposta: Sim\n\n18. 💍 Você gosta de final feliz?\nResposta: Sim\n\n19. 📚 Você gosta de séries/sagas longas?\nResposta: Sim\n\n20. 📘 Você prefere livros únicos?\nResposta: Sim\n\n21. 🔁 Você costuma reler livros favoritos?\nResposta: Sim\n\n22. 🆕 Você gosta de descobrir livros novos?\nResposta: Sim\n\n23. ⚡ Você prefere leitura rápida?\nResposta: Não\n\n24. 📖 Você costuma ler com frequência?\nResposta: Não\n\n25. ⏳ Você tem paciência para aguardar pedidos?\nResposta: Sim\n\n26. 📦 Você entende que nem todos os livros estarão disponíveis?\nResposta: Sim\n"
+        },
+        "7359994085": {
+            "nome": "Emanuelle",
+            "username": "PrincesaaUw",
+            "status": "Aprovado, link enviado",
+            "ficha": "🦉 Coruja da Biblioteca\n\n🧪 FICHA DE ALUNO\n\n👤 Nome: Emanuelle\n🎂 Idade: 16\n🆔 ID Telegram: 7359994085\n🔗 Usuário: @PrincesaaUw\n👁 Perfil: tg://user?id=7359994085\n📸 Foto no perfil: Sim\n📌 Status: aguardando avaliação\n\n1. 📚 Você gosta de romance?\nResposta: Sim\n\n2. 🖤 Você gosta de Dark Romance?\nResposta: Sim\n\n3. ✨ Você gosta de fantasia?\nResposta: Sim\n\n4. 📖 Você gosta de histórias de escola/adolescentes (Young Adult)?\nResposta: Sim\n\n5. 🌶️ Você gosta de livros hot/+18?\nResposta: Não\n\n6. 👻 Você gosta de terror/horror?\nResposta: Sim\n\n7. 🔍 Você gosta de suspense/thriller?\nResposta: Sim\n\n8. ⚔️ Você gosta de Enemies to Lovers?\nResposta: Sim\n\n9. 💥 Você gosta de Rivals to Lovers?\nResposta: Sim\n\n10. ⏳ Você gosta de Age Gap/diferença de idade?\nResposta: Sim\n\n11. 🩶 Você gosta de personagens moralmente cinzentos?\nResposta: Sim\n\n12. 🖤 Você gosta de anti-heróis?\nResposta: Sim\n\n13. 💔 Você gosta de drama emocional forte?\nResposta: Sim\n\n14. 🔺 Você gosta de triângulo amoroso?\nResposta: Não\n\n15. 🌑 Você gosta de temas sombrios?\nResposta: Sim\n\n16. 🔥 Você gosta de histórias intensas/pesadas?\nResposta: Sim\n\n17. 🎭 Você gosta de plot twist/reviravoltas?\nResposta: Sim\n\n18. 💍 Você gosta de final feliz?\nResposta: Sim\n\n19. 📚 Você gosta de séries/sagas longas?\nResposta: Sim\n\n20. 📘 Você prefere livros únicos?\nResposta: Sim\n\n21. 🔁 Você costuma reler livros favoritos?\nResposta: Sim\n\n22. 🆕 Você gosta de descobrir livros novos?\nResposta: Sim\n\n23. ⚡ Você prefere leitura rápida?\nResposta: Não\n\n24. 📖 Você costuma ler com frequência?\nResposta: Sim\n\n25. ⏳ Você tem paciência para aguardar pedidos?\nResposta: Sim\n\n26. 📦 Você entende que nem todos os livros estarão disponíveis?\nResposta: Sim\n"
+        },
+        "1307524156": {
+            "nome": "Roberta",
+            "username": "arias_roberta",
+            "status": "Entrou no grupo oficial",
+            "ficha": "🦉 Coruja da Biblioteca\n\n🧪 FICHA DE ALUNO\n\n👤 Nome: Roberta\n🎂 Idade: 36\n🆔 ID Telegram: 1307524156\n🔗 Usuário: @arias_roberta\n👁 Perfil: tg://user?id=1307524156\n📸 Foto no perfil: Sim\n📌 Status: aguardando avaliação\n\n1. 📚 Você gosta de romance?\nResposta: Sim\n\n2. 🖤 Você gosta de Dark Romance?\nResposta: Não\n\n3. ✨ Você gosta de fantasia?\nResposta: Sim\n\n4. 📖 Você gosta de histórias de escola/adolescentes (Young Adult)?\nResposta: Sim\n\n5. 🌶️ Você gosta de livros hot/+18?\nResposta: Sim\n\n6. 👻 Você gosta de terror/horror?\nResposta: Não\n\n7. 🔍 Você gosta de suspense/thriller?\nResposta: Sim\n\n8. ⚔️ Você gosta de Enemies to Lovers?\nResposta: Sim\n\n9. 💥 Você gosta de Rivals to Lovers?\nResposta: Sim\n\n10. ⏳ Você gosta de Age Gap/diferença de idade?\nResposta: Sim\n\n11. 🩶 Você gosta de personagens moralmente cinzentos?\nResposta: Sim\n\n12. 🖤 Você gosta de anti-heróis?\nResposta: Sim\n\n13. 💔 Você gosta de drama emocional forte?\nResposta: Sim\n\n14. 🔺 Você gosta de triângulo amoroso?\nResposta: Não\n\n15. 🌑 Você gosta de temas sombrios?\nResposta: Não\n\n16. 🔥 Você gosta de histórias intensas/pesadas?\nResposta: Sim\n\n17. 🎭 Você gosta de plot twist/reviravoltas?\nResposta: Sim\n\n18. 💍 Você gosta de final feliz?\nResposta: Sim\n\n19. 📚 Você gosta de séries/sagas longas?\nResposta: Sim\n\n20. 📘 Você prefere livros únicos?\nResposta: Sim\n\n21. 🔁 Você costuma reler livros favoritos?\nResposta: Sim\n\n22. 🆕 Você gosta de descobrir livros novos?\nResposta: Sim\n\n23. ⚡ Você prefere leitura rápida?\nResposta: Sim\n\n24. 📖 Você costuma ler com frequência?\nResposta: Sim\n\n25. ⏳ Você tem paciência para aguardar pedidos?\nResposta: Sim\n\n26. 📦 Você entende que nem todos os livros estarão disponíveis?\nResposta: Sim\n"
+        },
+        "1372842787": {
+            "nome": "Oi, demora muito a triagem?",
+            "username": "JustAllyz",
+            "status": "Entrou no grupo oficial",
+            "ficha": "🦉 Coruja da Biblioteca\n\n🧪 FICHA DE ALUNO\n\n👤 Nome: Oi, demora muito a triagem?\n🎂 Idade: 22\n🆔 ID Telegram: 1372842787\n🔗 Usuário: @JustAllyz\n👁 Perfil: tg://user?id=1372842787\n📸 Foto no perfil: Sim\n📌 Status: aguardando avaliação\n\n1. 📚 Você gosta de romance?\nResposta: Sim\n\n2. 🖤 Você gosta de Dark Romance?\nResposta: Sim\n\n3. ✨ Você gosta de fantasia?\nResposta: Sim\n\n4. 📖 Você gosta de histórias de escola/adolescentes (Young Adult)?\nResposta: Sim\n\n5. 🌶️ Você gosta de livros hot/+18?\nResposta: Sim\n\n6. 👻 Você gosta de terror/horror?\nResposta: Não\n\n7. 🔍 Você gosta de suspense/thriller?\nResposta: Não\n\n8. ⚔️ Você gosta de Enemies to Lovers?\nResposta: Sim\n\n9. 💥 Você gosta de Rivals to Lovers?\nResposta: Sim\n\n10. ⏳ Você gosta de Age Gap/diferença de idade?\nResposta: Sim\n\n11. 🩶 Você gosta de personagens moralmente cinzentos?\nResposta: Sim\n\n12. 🖤 Você gosta de anti-heróis?\nResposta: Sim\n\n13. 💔 Você gosta de drama emocional forte?\nResposta: Sim\n\n14. 🔺 Você gosta de triângulo amoroso?\nResposta: Sim\n\n15. 🌑 Você gosta de temas sombrios?\nResposta: Sim\n\n16. 🔥 Você gosta de histórias intensas/pesadas?\nResposta: Sim\n\n17. 🎭 Você gosta de plot twist/reviravoltas?\nResposta: Sim\n\n18. 💍 Você gosta de final feliz?\nResposta: Sim\n\n19. 📚 Você gosta de séries/sagas longas?\nResposta: Sim\n\n20. 📘 Você prefere livros únicos?\nResposta: Sim\n\n21. 🔁 Você costuma reler livros favoritos?\nResposta: Não\n\n22. 🆕 Você gosta de descobrir livros novos?\nResposta: Sim\n\n23. ⚡ Você prefere leitura rápida?\nResposta: Sim\n\n24. 📖 Você costuma ler com frequência?\nResposta: Sim\n\n25. ⏳ Você tem paciência para aguardar pedidos?\nResposta: Sim\n\n26. 📦 Você entende que nem todos os livros estarão disponíveis?\nResposta: Sim\n"
+        },
+        "8323756886": {
+            "nome": "Maria Clara",
+            "username": "Clara_tti",
+            "status": "Entrou no grupo oficial",
+            "ficha": "🦉 Coruja da Biblioteca\n\n🧪 FICHA DE ALUNO\n\n👤 Nome: Maria Clara\n🎂 Idade: 18\n🆔 ID Telegram: 8323756886\n🔗 Usuário: @Clara_tti\n👁 Perfil: tg://user?id=8323756886\n📸 Foto no perfil: Sim\n📌 Status: aguardando avaliação\n\n1. 📚 Você gosta de romance?\nResposta: Sim\n\n2. 🖤 Você gosta de Dark Romance?\nResposta: Sim\n\n3. ✨ Você gosta de fantasia?\nResposta: Sim\n\n4. 📖 Você gosta de histórias de escola/adolescentes (Young Adult)?\nResposta: Sim\n\n5. 🌶️ Você gosta de livros hot/+18?\nResposta: Sim\n\n6. 👻 Você gosta de terror/horror?\nResposta: Sim\n\n7. 🔍 Você gosta de suspense/thriller?\nResposta: Não\n\n8. ⚔️ Você gosta de Enemies to Lovers?\nResposta: Sim\n\n9. 💥 Você gosta de Rivals to Lovers?\nResposta: Não\n\n10. ⏳ Você gosta de Age Gap/diferença de idade?\nResposta: Não\n\n11. 🩶 Você gosta de personagens moralmente cinzentos?\nResposta: Não\n\n12. 🖤 Você gosta de anti-heróis?\nResposta: Sim\n\n13. 💔 Você gosta de drama emocional forte?\nResposta: Não\n\n14. 🔺 Você gosta de triângulo amoroso?\nResposta: Sim\n\n15. 🌑 Você gosta de temas sombrios?\nResposta: Não\n\n16. 🔥 Você gosta de histórias intensas/pesadas?\nResposta: Não\n\n17. 🎭 Você gosta de plot twist/reviravoltas?\nResposta: Sim\n\n18. 💍 Você gosta de final feliz?\nResposta: Sim\n\n19. 📚 Você gosta de séries/sagas longas?\nResposta: Sim\n\n20. 📘 Você prefere livros únicos?\nResposta: Sim\n\n21. 🔁 Você costuma reler livros favoritos?\nResposta: Não\n\n22. 🆕 Você gosta de descobrir livros novos?\nResposta: Sim\n\n23. ⚡ Você prefere leitura rápida?\nResposta: Sim\n\n24. 📖 Você costuma ler com frequência?\nResposta: Sim\n\n25. ⏳ Você tem paciência para aguardar pedidos?\nResposta: Sim\n\n26. 📦 Você entende que nem todos os livros estarão disponíveis?\nResposta: Sim\n"
+        },
+        "6536287440": {
+            "nome": "Yasmin",
+            "username": "yasmin_cam",
+            "status": "Entrou no grupo oficial",
+            "ficha": "🦉 Coruja da Biblioteca\n\n🧪 FICHA DE ALUNO\n\n👤 Nome: Yasmin\n🎂 Idade: 17\n🆔 ID Telegram: 6536287440\n🔗 Usuário: @yasmin_cam\n👁 Perfil: tg://user?id=6536287440\n📸 Foto no perfil: Sim\n📌 Status: aguardando avaliação\n\n1. 📚 Você gosta de romance?\nResposta: Sim\n\n2. 🖤 Você gosta de Dark Romance?\nResposta: Sim\n\n3. ✨ Você gosta de fantasia?\nResposta: Sim\n\n4. 📖 Você gosta de histórias de escola/adolescentes (Young Adult)?\nResposta: Sim\n\n5. 🌶️ Você gosta de livros hot/+18?\nResposta: Sim\n\n6. 👻 Você gosta de terror/horror?\nResposta: Sim\n\n7. 🔍 Você gosta de suspense/thriller?\nResposta: Sim\n\n8. ⚔️ Você gosta de Enemies to Lovers?\nResposta: Sim\n\n9. 💥 Você gosta de Rivals to Lovers?\nResposta: Sim\n\n10. ⏳ Você gosta de Age Gap/diferença de idade?\nResposta: Sim\n\n11. 🩶 Você gosta de personagens moralmente cinzentos?\nResposta: Sim\n\n12. 🖤 Você gosta de anti-heróis?\nResposta: Sim\n\n13. 💔 Você gosta de drama emocional forte?\nResposta: Sim\n\n14. 🔺 Você gosta de triângulo amoroso?\nResposta: Sim\n\n15. 🌑 Você gosta de temas sombrios?\nResposta: Sim\n\n16. 🔥 Você gosta de histórias intensas/pesadas?\nResposta: Sim\n\n17. 🎭 Você gosta de plot twist/reviravoltas?\nResposta: Sim\n\n18. 💍 Você gosta de final feliz?\nResposta: Sim\n\n19. 📚 Você gosta de séries/sagas longas?\nResposta: Sim\n\n20. 📘 Você prefere livros únicos?\nResposta: Não\n\n21. 🔁 Você costuma reler livros favoritos?\nResposta: Não\n\n22. 🆕 Você gosta de descobrir livros novos?\nResposta: Sim\n\n23. ⚡ Você prefere leitura rápida?\nResposta: Não\n\n24. 📖 Você costuma ler com frequência?\nResposta: Sim\n\n25. ⏳ Você tem paciência para aguardar pedidos?\nResposta: Sim\n\n26. 📦 Você entende que nem todos os livros estarão disponíveis?\nResposta: Sim\n"
+        },
+        "8056973012": {
+            "nome": "Eduarda",
+            "username": "Duda_my",
+            "status": "Entrou no grupo oficial",
+            "ficha": "🦉 Coruja da Biblioteca\n\n🧪 FICHA DE ALUNO\n\n👤 Nome: Eduarda\n🎂 Idade: 20\n🆔 ID Telegram: 8056973012\n🔗 Usuário: @Duda_my\n👁 Perfil: tg://user?id=8056973012\n📸 Foto no perfil: Sim\n📌 Status: aguardando avaliação\n\n1. 📚 Você gosta de romance?\nResposta: Sim\n\n2. 🖤 Você gosta de Dark Romance?\nResposta: Sim\n\n3. ✨ Você gosta de fantasia?\nResposta: Sim\n\n4. 📖 Você gosta de histórias de escola/adolescentes (Young Adult)?\nResposta: Não\n\n5. 🌶️ Você gosta de livros hot/+18?\nResposta: Sim\n\n6. 👻 Você gosta de terror/horror?\nResposta: Não\n\n7. 🔍 Você gosta de suspense/thriller?\nResposta: Não\n\n8. ⚔️ Você gosta de Enemies to Lovers?\nResposta: Não\n\n9. 💥 Você gosta de Rivals to Lovers?\nResposta: Não\n\n10. ⏳ Você gosta de Age Gap/diferença de idade?\nResposta: Sim\n\n11. 🩶 Você gosta de personagens moralmente cinzentos?\nResposta: Sim\n\n12. 🖤 Você gosta de anti-heróis?\nResposta: Sim\n\n13. 💔 Você gosta de drama emocional forte?\nResposta: Não\n\n14. 🔺 Você gosta de triângulo amoroso?\nResposta: Não\n\n15. 🌑 Você gosta de temas sombrios?\nResposta: Não\n\n16. 🔥 Você gosta de histórias intensas/pesadas?\nResposta: Sim\n\n17. 🎭 Você gosta de plot twist/reviravoltas?\nResposta: Não\n\n18. 💍 Você gosta de final feliz?\nResposta: Sim\n\n19. 📚 Você gosta de séries/sagas longas?\nResposta: Sim\n\n20. 📘 Você prefere livros únicos?\nResposta: Sim\n\n21. 🔁 Você costuma reler livros favoritos?\nResposta: Sim\n\n22. 🆕 Você gosta de descobrir livros novos?\nResposta: Sim\n\n23. ⚡ Você prefere leitura rápida?\nResposta: Sim\n\n24. 📖 Você costuma ler com frequência?\nResposta: Não\n\n25. ⏳ Você tem paciência para aguardar pedidos?\nResposta: Sim\n\n26. 📦 Você entende que nem todos os livros estarão disponíveis?\nResposta: Sim\n"
+        },
+        "5010042485": {
+            "nome": "Aliene",
+            "username": "aliene4",
+            "status": "Aprovado, link enviado",
+            "ficha": "🦉 Coruja da Biblioteca\n\n🧪 FICHA DE ALUNO\n\n👤 Nome: Aliene\n🎂 Idade: 62\n🆔 ID Telegram: 5010042485\n🔗 Usuário: @aliene4\n👁 Perfil: tg://user?id=5010042485\n📸 Foto no perfil: Sim\n📌 Status: aguardando avaliação\n\n1. 📚 Você gosta de romance?\nResposta: Sim\n\n2. 🖤 Você gosta de Dark Romance?\nResposta: Sim\n\n3. ✨ Você gosta de fantasia?\nResposta: Não\n\n4. 📖 Você gosta de histórias de escola/adolescentes (Young Adult)?\nResposta: Não\n\n5. 🌶️ Você gosta de livros hot/+18?\nResposta: Sim\n\n6. 👻 Você gosta de terror/horror?\nResposta: Não\n\n7. 🔍 Você gosta de suspense/thriller?\nResposta: Não\n\n8. ⚔️ Você gosta de Enemies to Lovers?\nResposta: Sim\n\n9. 💥 Você gosta de Rivals to Lovers?\nResposta: Sim\n\n10. ⏳ Você gosta de Age Gap/diferença de idade?\nResposta: Sim\n\n11. 🩶 Você gosta de personagens moralmente cinzentos?\nResposta: Sim\n\n12. 🖤 Você gosta de anti-heróis?\nResposta: Sim\n\n13. 💔 Você gosta de drama emocional forte?\nResposta: Sim\n\n14. 🔺 Você gosta de triângulo amoroso?\nResposta: Não\n\n15. 🌑 Você gosta de temas sombrios?\nResposta: Sim\n\n16. 🔥 Você gosta de histórias intensas/pesadas?\nResposta: Sim\n\n17. 🎭 Você gosta de plot twist/reviravoltas?\nResposta: Sim\n\n18. 💍 Você gosta de final feliz?\nResposta: Sim\n\n19. 📚 Você gosta de séries/sagas longas?\nResposta: Sim\n\n20. 📘 Você prefere livros únicos?\nResposta: Sim\n\n21. 🔁 Você costuma reler livros favoritos?\nResposta: Não\n\n22. 🆕 Você gosta de descobrir livros novos?\nResposta: Sim\n\n23. ⚡ Você prefere leitura rápida?\nResposta: Não\n\n24. 📖 Você costuma ler com frequência?\nResposta: Sim\n\n25. ⏳ Você tem paciência para aguardar pedidos?\nResposta: Sim\n\n26. 📦 Você entende que nem todos os livros estarão disponíveis?\nResposta: Sim\n"
+        },
+        "5796657662": {
+            "nome": "Giovanna",
+            "username": "Giiohhh5772",
+            "status": "Entrou no grupo oficial",
+            "ficha": "🦉 Coruja da Biblioteca\n\n🧪 FICHA DE ALUNO\n\n👤 Nome: Giovanna\n🎂 Idade: 23\n🆔 ID Telegram: 5796657662\n🔗 Usuário: @Giiohhh5772\n👁 Perfil: tg://user?id=5796657662\n📸 Foto no perfil: Sim\n📌 Status: aguardando avaliação\n\n1. 📚 Você gosta de romance?\nResposta: Sim\n\n2. 🖤 Você gosta de Dark Romance?\nResposta: Sim\n\n3. ✨ Você gosta de fantasia?\nResposta: Sim\n\n4. 📖 Você gosta de histórias de escola/adolescentes (Young Adult)?\nResposta: Sim\n\n5. 🌶️ Você gosta de livros hot/+18?\nResposta: Sim\n\n6. 👻 Você gosta de terror/horror?\nResposta: Não\n\n7. 🔍 Você gosta de suspense/thriller?\nResposta: Não\n\n8. ⚔️ Você gosta de Enemies to Lovers?\nResposta: Sim\n\n9. 💥 Você gosta de Rivals to Lovers?\nResposta: Sim\n\n10. ⏳ Você gosta de Age Gap/diferença de idade?\nResposta: Sim\n\n11. 🩶 Você gosta de personagens moralmente cinzentos?\nResposta: Sim\n\n12. 🖤 Você gosta de anti-heróis?\nResposta: Sim\n\n13. 💔 Você gosta de drama emocional forte?\nResposta: Não\n\n14. 🔺 Você gosta de triângulo amoroso?\nResposta: Não\n\n15. 🌑 Você gosta de temas sombrios?\nResposta: Sim\n\n16. 🔥 Você gosta de histórias intensas/pesadas?\nResposta: Não\n\n17. 🎭 Você gosta de plot twist/reviravoltas?\nResposta: Sim\n\n18. 💍 Você gosta de final feliz?\nResposta: Sim\n\n19. 📚 Você gosta de séries/sagas longas?\nResposta: Não\n\n20. 📘 Você prefere livros únicos?\nResposta: Sim\n\n21. 🔁 Você costuma reler livros favoritos?\nResposta: Sim\n\n22. 🆕 Você gosta de descobrir livros novos?\nResposta: Sim\n\n23. ⚡ Você prefere leitura rápida?\nResposta: Sim\n\n24. 📖 Você costuma ler com frequência?\nResposta: Sim\n\n25. ⏳ Você tem paciência para aguardar pedidos?\nResposta: Sim\n\n26. 📦 Você entende que nem todos os livros estarão disponíveis?\nResposta: Sim\n"
+        },
+        "532123731": {
+            "nome": "Ana Carolina Demétrio",
+            "username": "AnaCDemetrio",
+            "status": "Entrou no grupo oficial",
+            "ficha": "🦉 Coruja da Biblioteca\n\n🧪 FICHA DE ALUNO\n\n👤 Nome: Ana Carolina Demétrio\n🎂 Idade: 31\n🆔 ID Telegram: 532123731\n🔗 Usuário: @AnaCDemetrio\n👁 Perfil: tg://user?id=532123731\n📸 Foto no perfil: Sim\n📌 Status: aguardando avaliação\n\n1. 📚 Você gosta de romance?\nResposta: Sim\n\n2. 🖤 Você gosta de Dark Romance?\nResposta: Sim\n\n3. ✨ Você gosta de fantasia?\nResposta: Sim\n\n4. 📖 Você gosta de histórias de escola/adolescentes (Young Adult)?\nResposta: Sim\n\n5. 🌶️ Você gosta de livros hot/+18?\nResposta: Sim\n\n6. 👻 Você gosta de terror/horror?\nResposta: Sim\n\n7. 🔍 Você gosta de suspense/thriller?\nResposta: Sim\n\n8. ⚔️ Você gosta de Enemies to Lovers?\nResposta: Sim\n\n9. 💥 Você gosta de Rivals to Lovers?\nResposta: Sim\n\n10. ⏳ Você gosta de Age Gap/diferença de idade?\nResposta: Sim\n\n11. 🩶 Você gosta de personagens moralmente cinzentos?\nResposta: Sim\n\n12. 🖤 Você gosta de anti-heróis?\nResposta: Sim\n\n13. 💔 Você gosta de drama emocional forte?\nResposta: Sim\n\n14. 🔺 Você gosta de triângulo amoroso?\nResposta: Sim\n\n15. 🌑 Você gosta de temas sombrios?\nResposta: Sim\n\n16. 🔥 Você gosta de histórias intensas/pesadas?\nResposta: Sim\n\n17. 🎭 Você gosta de plot twist/reviravoltas?\nResposta: Sim\n\n18. 💍 Você gosta de final feliz?\nResposta: Sim\n\n19. 📚 Você gosta de séries/sagas longas?\nResposta: Sim\n\n20. 📘 Você prefere livros únicos?\nResposta: Sim\n\n21. 🔁 Você costuma reler livros favoritos?\nResposta: Sim\n\n22. 🆕 Você gosta de descobrir livros novos?\nResposta: Sim\n\n23. ⚡ Você prefere leitura rápida?\nResposta: Sim\n\n24. 📖 Você costuma ler com frequência?\nResposta: Sim\n\n25. ⏳ Você tem paciência para aguardar pedidos?\nResposta: Sim\n\n26. 📦 Você entende que nem todos os livros estarão disponíveis?\nResposta: Sim\n"
+        },
+        "7330082598": {
+            "nome": "Tatiana",
+            "username": "Tatinoronha",
+            "status": "Entrou no grupo oficial",
+            "ficha": "🦉 Coruja da Biblioteca\n\n🧪 FICHA DE ALUNO\n\n👤 Nome: Tatiana\n🎂 Idade: 30\n🆔 ID Telegram: 7330082598\n🔗 Usuário: @Tatinoronha\n👁 Perfil: tg://user?id=7330082598\n📸 Foto no perfil: Sim\n📌 Status: aguardando avaliação\n\n1. 📚 Você gosta de romance?\nResposta: Sim\n\n2. 🖤 Você gosta de Dark Romance?\nResposta: Sim\n\n3. ✨ Você gosta de fantasia?\nResposta: Não\n\n4. 📖 Você gosta de histórias de escola/adolescentes (Young Adult)?\nResposta: Sim\n\n5. 🌶️ Você gosta de livros hot/+18?\nResposta: Sim\n\n6. 👻 Você gosta de terror/horror?\nResposta: Não\n\n7. 🔍 Você gosta de suspense/thriller?\nResposta: Não\n\n8. ⚔️ Você gosta de Enemies to Lovers?\nResposta: Sim\n\n9. 💥 Você gosta de Rivals to Lovers?\nResposta: Sim\n\n10. ⏳ Você gosta de Age Gap/diferença de idade?\nResposta: Sim\n\n11. 🩶 Você gosta de personagens moralmente cinzentos?\nResposta: Sim\n\n12. 🖤 Você gosta de anti-heróis?\nResposta: Sim\n\n13. 💔 Você gosta de drama emocional forte?\nResposta: Não\n\n14. 🔺 Você gosta de triângulo amoroso?\nResposta: Não\n\n15. 🌑 Você gosta de temas sombrios?\nResposta: Não\n\n16. 🔥 Você gosta de histórias intensas/pesadas?\nResposta: Sim\n\n17. 🎭 Você gosta de plot twist/reviravoltas?\nResposta: Sim\n\n18. 💍 Você gosta de final feliz?\nResposta: Sim\n\n19. 📚 Você gosta de séries/sagas longas?\nResposta: Sim\n\n20. 📘 Você prefere livros únicos?\nResposta: Sim\n\n21. 🔁 Você costuma reler livros favoritos?\nResposta: Sim\n\n22. 🆕 Você gosta de descobrir livros novos?\nResposta: Sim\n\n23. ⚡ Você prefere leitura rápida?\nResposta: Não\n\n24. 📖 Você costuma ler com frequência?\nResposta: Sim\n\n25. ⏳ Você tem paciência para aguardar pedidos?\nResposta: Sim\n\n26. 📦 Você entende que nem todos os livros estarão disponíveis?\nResposta: Sim\n"
+        },
+        "7083810757": {
+            "nome": "Seraphina",
+            "username": "Alexaandra_Lucke",
+            "status": "Entrou no grupo oficial",
+            "ficha": "🦉 Coruja da Biblioteca\n\n🧪 FICHA DE ALUNO\n\n👤 Nome: Seraphina\n🎂 Idade: 21\n🆔 ID Telegram: 7083810757\n🔗 Usuário: @Alexaandra_Lucke\n👁 Perfil: tg://user?id=7083810757\n📸 Foto no perfil: Sim\n📌 Status: aguardando avaliação\n\n1. 📚 Você gosta de romance?\nResposta: Sim\n\n2. 🖤 Você gosta de Dark Romance?\nResposta: Sim\n\n3. ✨ Você gosta de fantasia?\nResposta: Sim\n\n4. 📖 Você gosta de histórias de escola/adolescentes (Young Adult)?\nResposta: Sim\n\n5. 🌶️ Você gosta de livros hot/+18?\nResposta: Sim\n\n6. 👻 Você gosta de terror/horror?\nResposta: Não\n\n7. 🔍 Você gosta de suspense/thriller?\nResposta: Não\n\n8. ⚔️ Você gosta de Enemies to Lovers?\nResposta: Sim\n\n9. 💥 Você gosta de Rivals to Lovers?\nResposta: Sim\n\n10. ⏳ Você gosta de Age Gap/diferença de idade?\nResposta: Sim\n\n11. 🩶 Você gosta de personagens moralmente cinzentos?\nResposta: Sim\n\n12. 🖤 Você gosta de anti-heróis?\nResposta: Sim\n\n13. 💔 Você gosta de drama emocional forte?\nResposta: Sim\n\n14. 🔺 Você gosta de triângulo amoroso?\nResposta: Sim\n\n15. 🌑 Você gosta de temas sombrios?\nResposta: Sim\n\n16. 🔥 Você gosta de histórias intensas/pesadas?\nResposta: Sim\n\n17. 🎭 Você gosta de plot twist/reviravoltas?\nResposta: Sim\n\n18. 💍 Você gosta de final feliz?\nResposta: Sim\n\n19. 📚 Você gosta de séries/sagas longas?\nResposta: Sim\n\n20. 📘 Você prefere livros únicos?\nResposta: Sim\n\n21. 🔁 Você costuma reler livros favoritos?\nResposta: Sim\n\n22. 🆕 Você gosta de descobrir livros novos?\nResposta: Sim\n\n23. ⚡ Você prefere leitura rápida?\nResposta: Sim\n\n24. 📖 Você costuma ler com frequência?\nResposta: Sim\n\n25. ⏳ Você tem paciência para aguardar pedidos?\nResposta: Sim\n\n26. 📦 Você entende que nem todos os livros estarão disponíveis?\nResposta: Sim\n"
+        },
+        "1573160146": {
+            "nome": "Stephanie",
+            "username": "Ste_179",
+            "status": "Entrou no grupo oficial",
+            "ficha": "🦉 Coruja da Biblioteca\n\n🧪 FICHA DE ALUNO\n\n👤 Nome: Stephanie\n🎂 Idade: 29\n🆔 ID Telegram: 1573160146\n🔗 Usuário: @Ste_179\n👁 Perfil: tg://user?id=1573160146\n📸 Foto no perfil: Sim\n📌 Status: aguardando avaliação\n\n1. 📚 Você gosta de romance?\nResposta: Sim\n\n2. 🖤 Você gosta de Dark Romance?\nResposta: Sim\n\n3. ✨ Você gosta de fantasia?\nResposta: Sim\n\n4. 📖 Você gosta de histórias de escola/adolescentes (Young Adult)?\nResposta: Sim\n\n5. 🌶️ Você gosta de livros hot/+18?\nResposta: Sim\n\n6. 👻 Você gosta de terror/horror?\nResposta: Não\n\n7. 🔍 Você gosta de suspense/thriller?\nResposta: Não\n\n8. ⚔️ Você gosta de Enemies to Lovers?\nResposta: Sim\n\n9. 💥 Você gosta de Rivals to Lovers?\nResposta: Sim\n\n10. ⏳ Você gosta de Age Gap/diferença de idade?\nResposta: Sim\n\n11. 🩶 Você gosta de personagens moralmente cinzentos?\nResposta: Sim\n\n12. 🖤 Você gosta de anti-heróis?\nResposta: Sim\n\n13. 💔 Você gosta de drama emocional forte?\nResposta: Sim\n\n14. 🔺 Você gosta de triângulo amoroso?\nResposta: Não\n\n15. 🌑 Você gosta de temas sombrios?\nResposta: Não\n\n16. 🔥 Você gosta de histórias intensas/pesadas?\nResposta: Sim\n\n17. 🎭 Você gosta de plot twist/reviravoltas?\nResposta: Sim\n\n18. 💍 Você gosta de final feliz?\nResposta: Sim\n\n19. 📚 Você gosta de séries/sagas longas?\nResposta: Sim\n\n20. 📘 Você prefere livros únicos?\nResposta: Sim\n\n21. 🔁 Você costuma reler livros favoritos?\nResposta: Sim\n\n22. 🆕 Você gosta de descobrir livros novos?\nResposta: Sim\n\n23. ⚡ Você prefere leitura rápida?\nResposta: Não\n\n24. 📖 Você costuma ler com frequência?\nResposta: Sim\n\n25. ⏳ Você tem paciência para aguardar pedidos?\nResposta: Sim\n\n26. 📦 Você entende que nem todos os livros estarão disponíveis?\nResposta: Sim\n"
+        },
+        "7749040592": {
+            "nome": "Bianca",
+            "username": "anebianca",
+            "status": "Entrou no grupo oficial",
+            "ficha": "🦉 Coruja da Biblioteca\n\n🧪 FICHA DE ALUNO\n\n👤 Nome: Bianca\n🎂 Idade: 25\n🆔 ID Telegram: 7749040592\n🔗 Usuário: @anebianca\n👁 Perfil: tg://user?id=7749040592\n📸 Foto no perfil: Sim\n📌 Status: aguardando avaliação\n\n1. 📚 Você gosta de romance?\nResposta: Sim\n\n2. 🖤 Você gosta de Dark Romance?\nResposta: Sim\n\n3. ✨ Você gosta de fantasia?\nResposta: Sim\n\n4. 📖 Você gosta de histórias de escola/adolescentes (Young Adult)?\nResposta: Sim\n\n5. 🌶️ Você gosta de livros hot/+18?\nResposta: Sim\n\n6. 👻 Você gosta de terror/horror?\nResposta: Sim\n\n7. 🔍 Você gosta de suspense/thriller?\nResposta: Sim\n\n8. ⚔️ Você gosta de Enemies to Lovers?\nResposta: Sim\n\n9. 💥 Você gosta de Rivals to Lovers?\nResposta: Sim\n\n10. ⏳ Você gosta de Age Gap/diferença de idade?\nResposta: Sim\n\n11. 🩶 Você gosta de personagens moralmente cinzentos?\nResposta: Sim\n\n12. 🖤 Você gosta de anti-heróis?\nResposta: Sim\n\n13. 💔 Você gosta de drama emocional forte?\nResposta: Sim\n\n14. 🔺 Você gosta de triângulo amoroso?\nResposta: Sim\n\n15. 🌑 Você gosta de temas sombrios?\nResposta: Sim\n\n16. 🔥 Você gosta de histórias intensas/pesadas?\nResposta: Não\n\n17. 🎭 Você gosta de plot twist/reviravoltas?\nResposta: Sim\n\n18. 💍 Você gosta de final feliz?\nResposta: Sim\n\n19. 📚 Você gosta de séries/sagas longas?\nResposta: Sim\n\n20. 📘 Você prefere livros únicos?\nResposta: Não\n\n21. 🔁 Você costuma reler livros favoritos?\nResposta: Sim\n\n22. 🆕 Você gosta de descobrir livros novos?\nResposta: Sim\n\n23. ⚡ Você prefere leitura rápida?\nResposta: Sim\n\n24. 📖 Você costuma ler com frequência?\nResposta: Sim\n\n25. ⏳ Você tem paciência para aguardar pedidos?\nResposta: Sim\n\n26. 📦 Você entende que nem todos os livros estarão disponíveis?\nResposta: Sim\n"
+        },
+        "5171363459": {
+            "nome": "Boa noite",
+            "username": "MarcosCRF",
+            "status": "Entrou no grupo oficial",
+            "ficha": "🦉 Coruja da Biblioteca\n\n🧪 FICHA DE ALUNO\n\n👤 Nome: Boa noite\n🎂 Idade: 24\n🆔 ID Telegram: 5171363459\n🔗 Usuário: @MarcosCRF\n👁 Perfil: tg://user?id=5171363459\n📸 Foto no perfil: Sim\n📌 Status: aguardando avaliação\n\n1. 📚 Você gosta de romance?\nResposta: Sim\n\n2. 🖤 Você gosta de Dark Romance?\nResposta: Sim\n\n3. ✨ Você gosta de fantasia?\nResposta: Sim\n\n4. 📖 Você gosta de histórias de escola/adolescentes (Young Adult)?\nResposta: Sim\n\n5. 🌶️ Você gosta de livros hot/+18?\nResposta: Sim\n\n6. 👻 Você gosta de terror/horror?\nResposta: Sim\n\n7. 🔍 Você gosta de suspense/thriller?\nResposta: Sim\n\n8. ⚔️ Você gosta de Enemies to Lovers?\nResposta: Sim\n\n9. 💥 Você gosta de Rivals to Lovers?\nResposta: Sim\n\n10. ⏳ Você gosta de Age Gap/diferença de idade?\nResposta: Sim\n\n11. 🩶 Você gosta de personagens moralmente cinzentos?\nResposta: Sim\n\n12. 🖤 Você gosta de anti-heróis?\nResposta: Sim\n\n13. 💔 Você gosta de drama emocional forte?\nResposta: Sim\n\n14. 🔺 Você gosta de triângulo amoroso?\nResposta: Sim\n\n15. 🌑 Você gosta de temas sombrios?\nResposta: Sim\n\n16. 🔥 Você gosta de histórias intensas/pesadas?\nResposta: Sim\n\n17. 🎭 Você gosta de plot twist/reviravoltas?\nResposta: Sim\n\n18. 💍 Você gosta de final feliz?\nResposta: Sim\n\n19. 📚 Você gosta de séries/sagas longas?\nResposta: Sim\n\n20. 📘 Você prefere livros únicos?\nResposta: Sim\n\n21. 🔁 Você costuma reler livros favoritos?\nResposta: Sim\n\n22. 🆕 Você gosta de descobrir livros novos?\nResposta: Sim\n\n23. ⚡ Você prefere leitura rápida?\nResposta: Sim\n\n24. 📖 Você costuma ler com frequência?\nResposta: Sim\n\n25. ⏳ Você tem paciência para aguardar pedidos?\nResposta: Sim\n\n26. 📦 Você entende que nem todos os livros estarão disponíveis?\nResposta: Sim\n"
+        },
+        "7559245004": {
+            "nome": "Jéssica",
+            "username": "JessiJessi28",
+            "status": "Aprovado, link enviado",
+            "ficha": "🦉 Coruja da Biblioteca\n\n🧪 FICHA DE ALUNO\n\n👤 Nome: Jéssica\n🎂 Idade: 25\n🆔 ID Telegram: 7559245004\n🔗 Usuário: @JessiJessi28\n👁 Perfil: tg://user?id=7559245004\n📸 Foto no perfil: Sim\n📌 Status: aguardando avaliação\n\n1. 📚 Você gosta de romance?\nResposta: Sim\n\n2. 🖤 Você gosta de Dark Romance?\nResposta: Sim\n\n3. ✨ Você gosta de fantasia?\nResposta: Sim\n\n4. 📖 Você gosta de histórias de escola/adolescentes (Young Adult)?\nResposta: Sim\n\n5. 🌶️ Você gosta de livros hot/+18?\nResposta: Sim\n\n6. 👻 Você gosta de terror/horror?\nResposta: Sim\n\n7. 🔍 Você gosta de suspense/thriller?\nResposta: Sim\n\n8. ⚔️ Você gosta de Enemies to Lovers?\nResposta: Sim\n\n9. 💥 Você gosta de Rivals to Lovers?\nResposta: Sim\n\n10. ⏳ Você gosta de Age Gap/diferença de idade?\nResposta: Sim\n\n11. 🩶 Você gosta de personagens moralmente cinzentos?\nResposta: Sim\n\n12. 🖤 Você gosta de anti-heróis?\nResposta: Sim\n\n13. 💔 Você gosta de drama emocional forte?\nResposta: Sim\n\n14. 🔺 Você gosta de triângulo amoroso?\nResposta: Sim\n\n15. 🌑 Você gosta de temas sombrios?\nResposta: Sim\n\n16. 🔥 Você gosta de histórias intensas/pesadas?\nResposta: Sim\n\n17. 🎭 Você gosta de plot twist/reviravoltas?\nResposta: Sim\n\n18. 💍 Você gosta de final feliz?\nResposta: Sim\n\n19. 📚 Você gosta de séries/sagas longas?\nResposta: Sim\n\n20. 📘 Você prefere livros únicos?\nResposta: Sim\n\n21. 🔁 Você costuma reler livros favoritos?\nResposta: Sim\n\n22. 🆕 Você gosta de descobrir livros novos?\nResposta: Sim\n\n23. ⚡ Você prefere leitura rápida?\nResposta: Sim\n\n24. 📖 Você costuma ler com frequência?\nResposta: Sim\n\n25. ⏳ Você tem paciência para aguardar pedidos?\nResposta: Sim\n\n26. 📦 Você entende que nem todos os livros estarão disponíveis?\nResposta: Sim\n"
+        },
+        "1135210475": {
+            "nome": "Oi",
+            "username": "ElfaLine",
+            "status": "Entrou no grupo oficial",
+            "ficha": "🦉 Coruja da Biblioteca\n\n🧪 FICHA DE ALUNO\n\n👤 Nome: Oi\n🎂 Idade: 52\n🆔 ID Telegram: 1135210475\n🔗 Usuário: @ElfaLine\n👁 Perfil: tg://user?id=1135210475\n📸 Foto no perfil: Sim\n📌 Status: aguardando avaliação\n\n1. 📚 Você gosta de romance?\nResposta: Sim\n\n2. 🖤 Você gosta de Dark Romance?\nResposta: Sim\n\n3. ✨ Você gosta de fantasia?\nResposta: Sim\n\n4. 📖 Você gosta de histórias de escola/adolescentes (Young Adult)?\nResposta: Sim\n\n5. 🌶️ Você gosta de livros hot/+18?\nResposta: Sim\n\n6. 👻 Você gosta de terror/horror?\nResposta: Sim\n\n7. 🔍 Você gosta de suspense/thriller?\nResposta: Sim\n\n8. ⚔️ Você gosta de Enemies to Lovers?\nResposta: Sim\n\n9. 💥 Você gosta de Rivals to Lovers?\nResposta: Sim\n\n10. ⏳ Você gosta de Age Gap/diferença de idade?\nResposta: Sim\n\n11. 🩶 Você gosta de personagens moralmente cinzentos?\nResposta: Sim\n\n12. 🖤 Você gosta de anti-heróis?\nResposta: Sim\n\n13. 💔 Você gosta de drama emocional forte?\nResposta: Sim\n\n14. 🔺 Você gosta de triângulo amoroso?\nResposta: Sim\n\n15. 🌑 Você gosta de temas sombrios?\nResposta: Sim\n\n16. 🔥 Você gosta de histórias intensas/pesadas?\nResposta: Sim\n\n17. 🎭 Você gosta de plot twist/reviravoltas?\nResposta: Sim\n\n18. 💍 Você gosta de final feliz?\nResposta: Não\n\n19. 📚 Você gosta de séries/sagas longas?\nResposta: Não\n\n20. 📘 Você prefere livros únicos?\nResposta: Sim\n\n21. 🔁 Você costuma reler livros favoritos?\nResposta: Sim\n\n22. 🆕 Você gosta de descobrir livros novos?\nResposta: Sim\n\n23. ⚡ Você prefere leitura rápida?\nResposta: Sim\n\n24. 📖 Você costuma ler com frequência?\nResposta: Sim\n\n25. ⏳ Você tem paciência para aguardar pedidos?\nResposta: Sim\n\n26. 📦 Você entende que nem todos os livros estarão disponíveis?\nResposta: Sim\n"
+        },
+        "6323432079": {
+            "nome": "Daniella",
+            "username": "Daniella_Lorrayne",
+            "status": "Entrou no grupo oficial",
+            "ficha": "🦉 Coruja da Biblioteca\n\n🧪 FICHA DE ALUNO\n\n👤 Nome: Daniella\n🎂 Idade: 24\n🆔 ID Telegram: 6323432079\n🔗 Usuário: @Daniella_Lorrayne\n👁 Perfil: tg://user?id=6323432079\n📸 Foto no perfil: Sim\n📌 Status: aguardando avaliação\n\n1. 📚 Você gosta de romance?\nResposta: Sim\n\n2. 🖤 Você gosta de Dark Romance?\nResposta: Sim\n\n3. ✨ Você gosta de fantasia?\nResposta: Sim\n\n4. 📖 Você gosta de histórias de escola/adolescentes (Young Adult)?\nResposta: Sim\n\n5. 🌶️ Você gosta de livros hot/+18?\nResposta: Sim\n\n6. 👻 Você gosta de terror/horror?\nResposta: Sim\n\n7. 🔍 Você gosta de suspense/thriller?\nResposta: Sim\n\n8. ⚔️ Você gosta de Enemies to Lovers?\nResposta: Sim\n\n9. 💥 Você gosta de Rivals to Lovers?\nResposta: Sim\n\n10. ⏳ Você gosta de Age Gap/diferença de idade?\nResposta: Sim\n\n11. 🩶 Você gosta de personagens moralmente cinzentos?\nResposta: Sim\n\n12. 🖤 Você gosta de anti-heróis?\nResposta: Sim\n\n13. 💔 Você gosta de drama emocional forte?\nResposta: Sim\n\n14. 🔺 Você gosta de triângulo amoroso?\nResposta: Sim\n\n15. 🌑 Você gosta de temas sombrios?\nResposta: Sim\n\n16. 🔥 Você gosta de histórias intensas/pesadas?\nResposta: Sim\n\n17. 🎭 Você gosta de plot twist/reviravoltas?\nResposta: Sim\n\n18. 💍 Você gosta de final feliz?\nResposta: Sim\n\n19. 📚 Você gosta de séries/sagas longas?\nResposta: Sim\n\n20. 📘 Você prefere livros únicos?\nResposta: Sim\n\n21. 🔁 Você costuma reler livros favoritos?\nResposta: Sim\n\n22. 🆕 Você gosta de descobrir livros novos?\nResposta: Sim\n\n23. ⚡ Você prefere leitura rápida?\nResposta: Sim\n\n24. 📖 Você costuma ler com frequência?\nResposta: Sim\n\n25. ⏳ Você tem paciência para aguardar pedidos?\nResposta: Sim\n\n26. 📦 Você entende que nem todos os livros estarão disponíveis?\nResposta: Sim\n"
+        },
+        "1972978460": {
+            "nome": "Thaynara",
+            "username": "Thaymuniz",
+            "status": "Entrou no grupo oficial",
+            "ficha": "🦉 Coruja da Biblioteca\n\n🧪 FICHA DE ALUNO\n\n👤 Nome: Thaynara\n🎂 Idade: 30\n🆔 ID Telegram: 1972978460\n🔗 Usuário: @Thaymuniz\n👁 Perfil: tg://user?id=1972978460\n📸 Foto no perfil: Sim\n📌 Status: aguardando avaliação\n\n1. 📚 Você gosta de romance?\nResposta: Sim\n\n2. 🖤 Você gosta de Dark Romance?\nResposta: Sim\n\n3. ✨ Você gosta de fantasia?\nResposta: Sim\n\n4. 📖 Você gosta de histórias de escola/adolescentes (Young Adult)?\nResposta: Sim\n\n5. 🌶️ Você gosta de livros hot/+18?\nResposta: Sim\n\n6. 👻 Você gosta de terror/horror?\nResposta: Não\n\n7. 🔍 Você gosta de suspense/thriller?\nResposta: Sim\n\n8. ⚔️ Você gosta de Enemies to Lovers?\nResposta: Sim\n\n9. 💥 Você gosta de Rivals to Lovers?\nResposta: Sim\n\n10. ⏳ Você gosta de Age Gap/diferença de idade?\nResposta: Sim\n\n11. 🩶 Você gosta de personagens moralmente cinzentos?\nResposta: Não\n\n12. 🖤 Você gosta de anti-heróis?\nResposta: Sim\n\n13. 💔 Você gosta de drama emocional forte?\nResposta: Não\n\n14. 🔺 Você gosta de triângulo amoroso?\nResposta: Não\n\n15. 🌑 Você gosta de temas sombrios?\nResposta: Não\n\n16. 🔥 Você gosta de histórias intensas/pesadas?\nResposta: Não\n\n17. 🎭 Você gosta de plot twist/reviravoltas?\nResposta: Sim\n\n18. 💍 Você gosta de final feliz?\nResposta: Sim\n\n19. 📚 Você gosta de séries/sagas longas?\nResposta: Não\n\n20. 📘 Você prefere livros únicos?\nResposta: Sim\n\n21. 🔁 Você costuma reler livros favoritos?\nResposta: Não\n\n22. 🆕 Você gosta de descobrir livros novos?\nResposta: Sim\n\n23. ⚡ Você prefere leitura rápida?\nResposta: Sim\n\n24. 📖 Você costuma ler com frequência?\nResposta: Não\n\n25. ⏳ Você tem paciência para aguardar pedidos?\nResposta: Sim\n\n26. 📦 Você entende que nem todos os livros estarão disponíveis?\nResposta: Sim\n"
+        }
+    },
+    "alunos_reprovados": {
+        "8428718599": {
+            "nome": "Ana Paula",
+            "status": "Reprovado",
+            "ficha": "🦉 Coruja da Biblioteca\n\n🧪 FICHA DE ALUNO\n\n👤 Nome: Ana Paula\n🎂 Idade: 25\n🆔 ID Telegram: 8428718599\n🔗 Usuário: @Dalila_may\n👁 Perfil: tg://user?id=8428718599\n📸 Foto no perfil: Sim\n📌 Status: aguardando avaliação\n\n1. 📚 Você gosta de romance?\nResposta: Sim\n\n2. 🖤 Você gosta de Dark Romance?\nResposta: Sim\n\n3. ✨ Você gosta de fantasia?\nResposta: Não\n\n4. 📖 Você gosta de histórias de escola/adolescentes (Young Adult)?\nResposta: Não\n\n5. 🌶️ Você gosta de livros hot/+18?\nResposta: Sim\n\n6. 👻 Você gosta de terror/horror?\nResposta: Não\n\n7. 🔍 Você gosta de suspense/thriller?\nResposta: Não\n\n8. ⚔️ Você gosta de Enemies to Lovers?\nResposta: Sim\n\n9. 💥 Você gosta de Rivals to Lovers?\nResposta: Sim\n\n10. ⏳ Você gosta de Age Gap/diferença de idade?\nResposta: Sim\n\n11. 🩶 Você gosta de personagens moralmente cinzentos?\nResposta: Sim\n\n12. 🖤 Você gosta de anti-heróis?\nResposta: Sim\n\n13. 💔 Você gosta de drama emocional forte?\nResposta: Não\n\n14. 🔺 Você gosta de triângulo amoroso?\nResposta: Não\n\n15. 🌑 Você gosta de temas sombrios?\nResposta: Não\n\n16. 🔥 Você gosta de histórias intensas/pesadas?\nResposta: Sim\n\n17. 🎭 Você gosta de plot twist/reviravoltas?\nResposta: Sim\n\n18. 💍 Você gosta de final feliz?\nResposta: Sim\n\n19. 📚 Você gosta de séries/sagas longas?\nResposta: Não\n\n20. 📘 Você prefere livros únicos?\nResposta: Sim\n\n21. 🔁 Você costuma reler livros favoritos?\nResposta: Sim\n\n22. 🆕 Você gosta de descobrir livros novos?\nResposta: Sim\n\n23. ⚡ Você prefere leitura rápida?\nResposta: Sim\n\n24. 📖 Você costuma ler com frequência?\nResposta: Não\n\n25. ⏳ Você tem paciência para aguardar pedidos?\nResposta: Sim\n\n26. 📦 Você entende que nem todos os livros estarão disponíveis?\nResposta: Sim\n"
+        }
+    },
+    "alunos_entraram_triagem": {
+        "2127632643": {
+            "nome": "Carla",
+            "username": "caafernandes",
+            "id": 2127632643,
+            "status": "Começou a triagem"
+        },
+        "8199712107": {
+            "nome": "Simara",
+            "username": "simarafranklin",
+            "id": 8199712107,
+            "status": "Entrou na triagem, mas ainda não finalizou"
+        },
+        "1794355662": {
+            "nome": "Vitória",
+            "username": "ykftll",
+            "id": 1794355662,
+            "status": "Finalizou triagem, aguardando avaliação"
+        },
+        "5734899128": {
+            "nome": "Maria Vitória",
+            "username": "musaprofana",
+            "id": 5734899128,
+            "status": "Finalizou triagem, aguardando avaliação"
+        },
+        "1372842787": {
+            "nome": "Oi, demora muito a triagem?",
+            "username": "JustAllyz",
+            "id": 1372842787,
+            "status": "Finalizou triagem, aguardando avaliação"
+        },
+        "1453433492": {
+            "nome": "ℙ𝟙𝟛𝟟𝕣𝟘",
+            "username": "Sem usuário",
+            "id": 1453433492,
+            "status": "Entrou na triagem, mas ainda não finalizou"
+        },
+        "5954216424": {
+            "nome": "Elle",
+            "username": "Srta_Sants",
+            "id": 5954216424,
+            "status": "Começou a triagem"
+        },
+        "7297931339": {
+            "nome": "Luísa",
+            "username": "LuluToria",
+            "id": 7297931339,
+            "status": "Entrou na triagem, mas ainda não finalizou"
+        },
+        "1151048187": {
+            "nome": "Heloiza",
+            "username": "Helo374Tavares",
+            "id": 1151048187,
+            "status": "Começou a triagem"
+        },
+        "1241063156": {
+            "nome": "Grazielle",
+            "username": "GrazielleDiasSilva",
+            "id": 1241063156,
+            "status": "Entrou na triagem, mas ainda não finalizou"
+        },
+        "5480838590": {
+            "nome": "Dai",
+            "username": "Sem usuário",
+            "id": 5480838590,
+            "status": "Entrou na triagem, mas ainda não finalizou"
+        },
+        "8672397104": {
+            "nome": "Jéssica",
+            "username": "aurellioon",
+            "id": 8672397104,
+            "status": "Começou a triagem"
+        },
+        "7025937739": {
+            "nome": "Nome completo ou só o primeiro?\nLaura",
+            "username": "Khaleesi_T",
+            "id": 7025937739,
+            "status": "Finalizou triagem, aguardando avaliação"
+        },
+        "8323756886": {
+            "nome": "Maria Clara",
+            "username": "yennefer_Ff",
+            "id": 8323756886,
+            "status": "Finalizou triagem, aguardando avaliação"
+        },
+        "8312949134": {
+            "nome": "Quero entrar no grupo",
+            "username": "EduhLm",
+            "id": 8312949134,
+            "status": "Finalizou triagem, aguardando avaliação"
+        },
+        "7519903775": {
+            "nome": "Raely",
+            "username": "raelyalves",
+            "id": 7519903775,
+            "status": "Finalizou triagem, aguardando avaliação"
+        },
+        "8034386160": {
+            "nome": "Keila",
+            "username": "Keilaoliveira521",
+            "id": 8034386160,
+            "status": "Finalizou triagem, aguardando avaliação"
+        },
+        "8036270910": {
+            "nome": "Vitória",
+            "username": "vitoriaszt",
+            "id": 8036270910,
+            "status": "Finalizou triagem, aguardando avaliação"
+        },
+        "1574255056": {
+            "nome": "Nevermind",
+            "username": "Nevermind_Park",
+            "id": 1574255056,
+            "status": "Finalizou triagem, aguardando avaliação"
+        },
+        "8484325386": {
+            "nome": "Yara santos",
+            "username": "Yarasantos1984",
+            "id": 8484325386,
+            "status": "Finalizou triagem, aguardando avaliação"
+        },
+        "8476058578": {
+            "nome": "Manuela",
+            "username": "Maluttn",
+            "id": 8476058578,
+            "status": "Finalizou triagem, aguardando avaliação"
+        },
+        "7385753838": {
+            "nome": "Renato",
+            "username": "Sem usuário",
+            "id": 7385753838,
+            "status": "Entrou na triagem, mas ainda não finalizou"
+        },
+        "7359994085": {
+            "nome": "Emanuelle",
+            "username": "PrincesaaUw",
+            "id": 7359994085,
+            "status": "Finalizou triagem, aguardando avaliação"
+        },
+        "1307524156": {
+            "nome": "Roberta",
+            "username": "arias_roberta",
+            "id": 1307524156,
+            "status": "Finalizou triagem, aguardando avaliação"
+        },
+        "7065689465": {
+            "nome": "𐙚Beatriz",
+            "username": "biibi_silva",
+            "id": 7065689465,
+            "status": "Entrou na triagem, mas ainda não finalizou"
+        },
+        "6536287440": {
+            "nome": "Yasmin",
+            "username": "yasmin_cam",
+            "id": 6536287440,
+            "status": "Finalizou triagem, aguardando avaliação"
+        },
+        "8428718599": {
+            "nome": "Ana Paula",
+            "username": "Dalila_may",
+            "id": 8428718599,
+            "status": "Finalizou triagem, aguardando avaliação"
+        },
+        "5796657662": {
+            "nome": "Giovanna",
+            "username": "Giiohhh5772",
+            "id": 5796657662,
+            "status": "Finalizou triagem, aguardando avaliação"
+        },
+        "8700026670": {
+            "nome": "milena",
+            "username": "docevinho",
+            "id": 8700026670,
+            "status": "Entrou na triagem, mas ainda não finalizou"
+        },
+        "8056973012": {
+            "nome": "Eduarda",
+            "username": "Duda_my",
+            "id": 8056973012,
+            "status": "Finalizou triagem, aguardando avaliação"
+        },
+        "5010042485": {
+            "nome": "Aliene",
+            "username": "aliene4",
+            "id": 5010042485,
+            "status": "Finalizou triagem, aguardando avaliação"
+        },
+        "7330082598": {
+            "nome": "Tatiana",
+            "username": "Tatinoronha",
+            "id": 7330082598,
+            "status": "Finalizou triagem, aguardando avaliação"
+        },
+        "532123731": {
+            "nome": "Ana Carolina Demétrio",
+            "username": "AnaCDemetrio",
+            "id": 532123731,
+            "status": "Finalizou triagem, aguardando avaliação"
+        },
+        "8450100073": {
+            "nome": "Felix",
+            "username": "Jhesphelix",
+            "id": 8450100073,
+            "status": "Começou a triagem"
+        },
+        "7083810757": {
+            "nome": "Seraphina",
+            "username": "Alexaandra_Lucke",
+            "id": 7083810757,
+            "status": "Finalizou triagem, aguardando avaliação"
+        },
+        "5869790786": {
+            "nome": "Raven",
+            "username": "Bailey_Moon",
+            "id": 5869790786,
+            "status": "Começou a triagem"
+        },
+        "7749040592": {
+            "nome": "Bianca",
+            "username": "anebianca",
+            "id": 7749040592,
+            "status": "Finalizou triagem, aguardando avaliação"
+        },
+        "1700698724": {
+            "nome": "leni",
+            "username": "Lenipessine",
+            "id": 1700698724,
+            "status": "Entrou na triagem, mas ainda não finalizou"
+        },
+        "1957877790": {
+            "nome": "Jhoy",
+            "username": "Jhoy205",
+            "id": 1957877790,
+            "status": "Entrou na triagem, mas ainda não finalizou"
+        },
+        "2032381523": {
+            "nome": "Chiara",
+            "username": "BrilhaBrilhaEstrelinhas",
+            "id": 2032381523,
+            "status": "Entrou na triagem, mas ainda não finalizou"
+        },
+        "5171363459": {
+            "nome": "Boa noite",
+            "username": "MarcosCRF",
+            "id": 5171363459,
+            "status": "Finalizou triagem, aguardando avaliação"
+        },
+        "7559245004": {
+            "nome": "Jéssica",
+            "username": "JessiJessi28",
+            "id": 7559245004,
+            "status": "Finalizou triagem, aguardando avaliação"
+        },
+        "748704321": {
+            "nome": "Givanilda H",
+            "username": "Giva_Aljan",
+            "id": 748704321,
+            "status": "Entrou na triagem, mas ainda não finalizou"
+        },
+        "8623358222": {
+            "nome": "Nana",
+            "username": "Nanazsxi",
+            "id": 8623358222,
+            "status": "Entrou na triagem, mas ainda não finalizou"
+        },
+        "1573160146": {
+            "nome": "Stephanie",
+            "username": "Ste_179",
+            "id": 1573160146,
+            "status": "Finalizou triagem, aguardando avaliação"
+        },
+        "6413972609": {
+            "nome": "Janynni",
+            "username": "Nynnifreta",
+            "id": 6413972609,
+            "status": "Começou a triagem"
+        },
+        "5050103895": {
+            "nome": "Mileny",
+            "username": "Mile_ny",
+            "id": 5050103895,
+            "status": "Entrou na triagem, mas ainda não finalizou"
+        },
+        "1972978460": {
+            "nome": "Thaynara",
+            "username": "Thaymuniz",
+            "id": 1972978460,
+            "status": "Finalizou triagem, aguardando avaliação"
+        },
+        "8333521558": {
+            "nome": "Morgana",
+            "username": "aanyafer",
+            "id": 8333521558,
+            "status": "Entrou na triagem, mas ainda não finalizou"
+        },
+        "1101138564": {
+            "nome": "Gabriel",
+            "username": "gabrielfalmeids",
+            "id": 1101138564,
+            "status": "Entrou na triagem, mas ainda não finalizou"
+        },
+        "6323432079": {
+            "nome": "Daniella",
+            "username": "Daniella_Lorrayne",
+            "id": 6323432079,
+            "status": "Finalizou triagem, aguardando avaliação"
+        },
+        "7007736274": {
+            "nome": "Lili📚",
+            "username": "liliemilly",
+            "id": 7007736274,
+            "status": "Entrou na triagem, mas ainda não finalizou"
+        },
+        "1135210475": {
+            "nome": "Oi",
+            "username": "ElfaLine",
+            "id": 1135210475,
+            "status": "Finalizou triagem, aguardando avaliação"
+        },
+        "6858495127": {
+            "nome": "Thais",
+            "username": "Thai_01",
+            "id": 6858495127,
+            "status": "Entrou na triagem, mas ainda não finalizou"
+        }
+    },
+    "links_enviados": {
+        "1574255056": 1556,
+        "7359994085": 1871,
+        "5010042485": 2251,
+        "7559245004": 2660
+    },
+    "historico_links": {
+        "8672397104": {
+            "nome": "Jéssica",
+            "username": "aurellioon",
+            "status": "Entrou no grupo oficial"
+        },
+        "2127632643": {
+            "nome": "Carla",
+            "username": "caafernandes",
+            "status": "Entrou no grupo oficial"
+        },
+        "8034386160": {
+            "nome": "Keila",
+            "username": "Keilaoliveira521",
+            "status": "Entrou no grupo oficial"
+        },
+        "7519903775": {
+            "nome": "Raely",
+            "username": "raelyalves",
+            "status": "Entrou no grupo oficial"
+        },
+        "5734899128": {
+            "nome": "Maria Vitória",
+            "username": "musaprofana",
+            "status": "Entrou no grupo oficial"
+        },
+        "8036270910": {
+            "nome": "Vitória",
+            "username": "vitoriaszt",
+            "status": "Entrou no grupo oficial"
+        },
+        "8312949134": {
+            "nome": "Quero entrar no grupo",
+            "username": "EduhLm",
+            "status": "Entrou no grupo oficial"
+        },
+        "1794355662": {
+            "nome": "Vitória",
+            "username": "ykftll",
+            "status": "Entrou no grupo oficial"
+        },
+        "1574255056": {
+            "nome": "Nevermind",
+            "username": "Nevermind_Park",
+            "status": "Convite enviado em botão"
+        },
+        "7025937739": {
+            "nome": "Nome completo ou só o primeiro?\nLaura",
+            "username": "Khaleesi_T",
+            "status": "Entrou no grupo oficial"
+        },
+        "8476058578": {
+            "nome": "Manuela",
+            "username": "Maluttn",
+            "status": "Entrou no grupo oficial"
+        },
+        "7359994085": {
+            "nome": "Emanuelle",
+            "username": "PrincesaaUw",
+            "status": "Convite enviado em botão"
+        },
+        "1307524156": {
+            "nome": "Roberta",
+            "username": "arias_roberta",
+            "status": "Entrou no grupo oficial"
+        },
+        "1372842787": {
+            "nome": "Oi, demora muito a triagem?",
+            "username": "JustAllyz",
+            "status": "Entrou no grupo oficial"
+        },
+        "8323756886": {
+            "nome": "Maria Clara",
+            "username": "Clara_tti",
+            "status": "Entrou no grupo oficial"
+        },
+        "6536287440": {
+            "nome": "Yasmin",
+            "username": "yasmin_cam",
+            "status": "Entrou no grupo oficial"
+        },
+        "8056973012": {
+            "nome": "Eduarda",
+            "username": "Duda_my",
+            "status": "Entrou no grupo oficial"
+        },
+        "5010042485": {
+            "nome": "Aliene",
+            "username": "aliene4",
+            "status": "Convite enviado em botão"
+        },
+        "5796657662": {
+            "nome": "Giovanna",
+            "username": "Giiohhh5772",
+            "status": "Entrou no grupo oficial"
+        },
+        "532123731": {
+            "nome": "Ana Carolina Demétrio",
+            "username": "AnaCDemetrio",
+            "status": "Entrou no grupo oficial"
+        },
+        "7330082598": {
+            "nome": "Tatiana",
+            "username": "Tatinoronha",
+            "status": "Entrou no grupo oficial"
+        },
+        "7083810757": {
+            "nome": "Seraphina",
+            "username": "Alexaandra_Lucke",
+            "status": "Entrou no grupo oficial"
+        },
+        "1573160146": {
+            "nome": "Stephanie",
+            "username": "Ste_179",
+            "status": "Entrou no grupo oficial"
+        },
+        "7749040592": {
+            "nome": "Bianca",
+            "username": "anebianca",
+            "status": "Entrou no grupo oficial"
+        },
+        "5171363459": {
+            "nome": "Boa noite",
+            "username": "MarcosCRF",
+            "status": "Entrou no grupo oficial"
+        },
+        "7559245004": {
+            "nome": "Jéssica",
+            "username": "JessiJessi28",
+            "status": "Convite enviado em botão"
+        },
+        "1135210475": {
+            "nome": "Oi",
+            "username": "ElfaLine",
+            "status": "Entrou no grupo oficial"
+        },
+        "6323432079": {
+            "nome": "Daniella",
+            "username": "Daniella_Lorrayne",
+            "status": "Entrou no grupo oficial"
+        },
+        "1972978460": {
+            "nome": "Thaynara",
+            "username": "Thaymuniz",
+            "status": "Entrou no grupo oficial"
+        }
+    },
+    "alunos_no_oficial": {
+        "8672397104": {
+            "nome": "✨ Aurelion",
+            "username": "aurellioon",
+            "id": 8672397104,
+            "status": "Entrou após triagem"
+        },
+        "2127632643": {
+            "nome": "Ｃａｒｌａ",
+            "username": "caafernandes",
+            "id": 2127632643,
+            "status": "Entrou após triagem"
+        },
+        "8034386160": {
+            "nome": "Keila",
+            "username": "Keilaoliveira521",
+            "id": 8034386160,
+            "status": "Entrou após triagem"
+        },
+        "7519903775": {
+            "nome": "Raely",
+            "username": "raelyalves",
+            "id": 7519903775,
+            "status": "Entrou após triagem"
+        },
+        "5734899128": {
+            "nome": "Maria",
+            "username": "musaprofana",
+            "id": 5734899128,
+            "status": "Entrou após triagem"
+        },
+        "8036270910": {
+            "nome": "vitória",
+            "username": "vitoriaszt",
+            "id": 8036270910,
+            "status": "Entrou após triagem"
+        },
+        "8312949134": {
+            "nome": "Eduarda",
+            "username": "EduhLm",
+            "id": 8312949134,
+            "status": "Entrou após triagem"
+        },
+        "1794355662": {
+            "nome": "Vih",
+            "username": "ykftll",
+            "id": 1794355662,
+            "status": "Entrou após triagem"
+        },
+        "8476058578": {
+            "nome": "❀ Malu",
+            "username": "Maluttn",
+            "id": 8476058578,
+            "status": "Entrou após triagem"
+        },
+        "7025937739": {
+            "nome": "𝘒𝘩𝘢𝘭𝘦𝘦𝘴𝘪",
+            "username": "Khaleesi_T",
+            "id": 7025937739,
+            "status": "Entrou após triagem"
+        },
+        "1307524156": {
+            "nome": "Roberta",
+            "username": "arias_roberta",
+            "id": 1307524156,
+            "status": "Entrou após triagem"
+        },
+        "1372842787": {
+            "nome": "Ally",
+            "username": "JustAllyz",
+            "id": 1372842787,
+            "status": "Entrou após triagem"
+        },
+        "8323756886": {
+            "nome": "Maria",
+            "username": "Clara_tti",
+            "id": 8323756886,
+            "status": "Entrou após triagem"
+        },
+        "532123731": {
+            "nome": "Ana",
+            "username": "AnaCDemetrio",
+            "id": 532123731,
+            "status": "Entrou após triagem"
+        },
+        "8056973012": {
+            "nome": "Duda",
+            "username": "Duda_my",
+            "id": 8056973012,
+            "status": "Entrou após triagem"
+        },
+        "7330082598": {
+            "nome": "Tatiana",
+            "username": "Tatinoronha",
+            "id": 7330082598,
+            "status": "Entrou após triagem"
+        },
+        "5796657662": {
+            "nome": "Gihh",
+            "username": "Giiohhh5772",
+            "id": 5796657662,
+            "status": "Entrou após triagem"
+        },
+        "7083810757": {
+            "nome": "Seraphina",
+            "username": "Alexaandra_Lucke",
+            "id": 7083810757,
+            "status": "Entrou após triagem"
+        },
+        "7749040592": {
+            "nome": "✨Bianca",
+            "username": "anebianca",
+            "id": 7749040592,
+            "status": "Entrou após triagem"
+        },
+        "5171363459": {
+            "nome": "Quirrel",
+            "username": "MarcosCRF",
+            "id": 5171363459,
+            "status": "Entrou após triagem"
+        },
+        "1573160146": {
+            "nome": "Stephanie",
+            "username": "Ste_179",
+            "id": 1573160146,
+            "status": "Entrou após triagem"
+        },
+        "6536287440": {
+            "nome": "Yasmin",
+            "username": "yasmin_cam",
+            "id": 6536287440,
+            "status": "Entrou após triagem"
+        },
+        "1135210475": {
+            "nome": "ɆⱠ₣₳ Ⱡł₦Ɇ",
+            "username": "ElfaLine",
+            "id": 1135210475,
+            "status": "Entrou após triagem"
+        },
+        "6323432079": {
+            "nome": "Daniella",
+            "username": "Daniella_Lorrayne",
+            "id": 6323432079,
+            "status": "Entrou após triagem"
+        },
+        "1972978460": {
+            "nome": "Thaynara",
+            "username": "Thaymuniz",
+            "id": 1972978460,
+            "status": "Entrou após triagem"
+        }
+    },
+    "config_acesso": {
+        "imagem_file_id": "AgACAgEAAxkBAAIGnWn6cW-vkVysBQ0zCoW9qrToCJFRAAJvDGsbv7XRR0YD8oex1s4uAQADAgADeQADOwQ",
+        "mensagem": "🕯️ A triagem foi concluída sob olhos atentos… a magia decidiu a seu favor, e seu acesso foi concedido. Você pode prosseguir. ✨🚂",
+        "texto_botao": "🔮🧙‍♀️🗝️Abrir Acesso 🔮🧙‍♀️🗝️"
+    }
+}
