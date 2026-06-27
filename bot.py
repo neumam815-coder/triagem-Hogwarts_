@@ -1,11 +1,10 @@
-import json
 import os
+import json
 from telegram import *
 from telegram.ext import *
 
 # ================= CONFIG =================
-TOKEN = "8505235474:AAGtB8PkMMS0VFPxl0gIDK9Po8mUXmJbWTU"
-
+BOT_TOKEN = os.getenv("BOT_TOKEN")
 ADMIN_ID = 1130170420
 
 # IDs que podem refazer a triagem para testes
@@ -1207,7 +1206,7 @@ def menu_callback(update, context):
 def main():
     carregar_dados()
 
-    updater = Updater(TOKEN, use_context=True)
+    updater = Updater(BOT_TOKEN, use_context=True)
     dp = updater.dispatcher
 
     dp.add_handler(CommandHandler("start", start))
